@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on The Agile Techies Daily List</title>
+    <link>https://agiletechies.com/posts/</link>
+    <description>Recent content in Posts on The Agile Techies Daily List</description>
+    <image>
+      <title>The Agile Techies Daily List</title>
+      <url>https://agiletechies.com/images/papermod-cover.png</url>
+      <link>https://agiletechies.com/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.136.5</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 19 Sep 2024 19:43:23 -0400</lastBuildDate>
+    <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Which Projects Work Well With Agile?</title>
+      <link>https://agiletechies.com/posts/20240919-which-projects-work-well-with-agile/</link>
+      <pubDate>Thu, 19 Sep 2024 19:43:23 -0400</pubDate>
+      <guid>https://agiletechies.com/posts/20240919-which-projects-work-well-with-agile/</guid>
+      <description>&lt;p&gt;Agile works well for projects that have:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A low cost of change&lt;/li&gt;
+&lt;li&gt;Problems that are discovered along the way.&lt;/li&gt;
+&lt;li&gt;Informally specified goals, that could alter.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A more traditional approach might be a better option when:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The cost of change is high.&lt;/li&gt;
+&lt;li&gt;The complete set of problems are known up-front.&lt;/li&gt;
+&lt;li&gt;The goals are very specific and fully understood from the start.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Agile Is a Small Idea</title>
+      <link>https://agiletechies.com/posts/20240918-agile-is-a-small-idea/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://agiletechies.com/posts/20240918-agile-is-a-small-idea/</guid>
+      <description>&lt;p&gt;Robert C. Martin says that Agile is a small idea about the small problem of small programming teams doing small things.&lt;/p&gt;
+&lt;p&gt;Agile is not a big idea about the big problem of big programming teams doing big things.&lt;/p&gt;
+&lt;p&gt;Big things don’t get done by big teams; big things get done by the collaboration of many small teams doing many small things.&lt;/p&gt;
+&lt;p&gt;To help popularize this, back in the early 2000s, the idea was given a name. “Agile.”&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
