@@ -99,3 +99,6 @@ disableInlineCSS = true
 
 [services.twitter]
 disableInlineCSS = true
+
+[services.googleAnalytics]
+id = "G-VJVLBYZ7XM"
