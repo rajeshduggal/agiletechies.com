@@ -1,7 +1,101 @@
-baseURL = 'https://rajduggal.com/'
+baseURL = 'https://agiletechies.com/'
 languageCode = 'en-us'
-title = 'Raj Duggal - Agile Software Development'
+title = 'The Agile Techies Daily List'
 
 [module]
 [[module.imports]]
     path = 'github.com/adityatelange/hugo-PaperMod'
+
+paginate = 5
+enableInlineShortcodes = true
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+pygmentsUseClasses = true
+
+[minify]
+disableXML = true
+
+[languages.en]
+languageName = "English"
+weight = 1
+
+  [languages.en.taxonomies]
+  tag = "tags"
+
+[[languages.en.menu.main]]
+name = "Archive"
+url = "archives"
+weight = 5
+
+[[languages.en.menu.main]]
+name = "Search"
+url = "search/"
+weight = 10
+
+[[languages.en.menu.main]]
+name = "Tags"
+url = "tags/"
+weight = 10
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[params]
+mainsections = [ "posts" ]
+env = "production"
+description = "Raj Duggal coaches teams on how to develop and deliver high-quality software with an aim towards maximizing end-user value"
+author = "Raj Duggal"
+social = true
+defaultTheme = "auto"
+ShowShareButtons = true
+ShowReadingTime = false
+displayFullLangName = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = false
+ShowCodeCopyButtons = false
+ShowRssButtonInSectionTermList = true
+ShowAllPagesInArchive = false
+ShowPageNums = true
+ShowToc = false
+images = [ "images/papermod-cover.png" ]
+
+  [params.profileMode]
+  enabled = true
+  title = "The Agile Techies Daily List"
+  subTitle = """
+<p>👋
+  For <u><a href="/software-builders">software builders</a></u> that <u><a href="/enjoy-delivering">enjoy delivering</a></u> <u><a href="/high-quality">high-quality</a></u> <u><a href="/working-software">working software</a></u></p>
+<p>Yes, it's actually daily. And yes, people actually stay subscribed.</p>
+"""
+  imageUrl = "/images/main.jpg"
+
+  [[params.profileMode.buttons]]
+  name = "Browse the archive"
+  url = "archives"
+
+  [params.homeInfoParams]
+  Title = "The Agile Techies Daily List"
+  Content = """
+👋
+  For software builders who want to know how to deliver high-quality working software with a smile instead of a headache"
+- Yes, its actually daily. And yes, people actually stay subscribed.
+- (Add convertkit form here)
+"""
+
+  [params.assets]
+  disableHLJS = true
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+noClasses = false
+
+[services.instagram]
+disableInlineCSS = true
+
+[services.twitter]
+disableInlineCSS = true
