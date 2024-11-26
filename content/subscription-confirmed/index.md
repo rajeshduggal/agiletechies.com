@@ -4,6 +4,7 @@ hideMeta = true
 robotsNoIndex = true
 hiddenInHomelist = true
 disableShare = true
+searchHidden = true
 +++
 
 Thanks for your interest!

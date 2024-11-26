@@ -67,7 +67,7 @@ images = [ "images/papermod-cover.png" ]
   title = "The Agile Techies Daily List"
   subTitle = """
 <p>👋
-  For <u><a href="/software-builders">software builders</a></u> that <u><a href="/enjoy-delivering">enjoy delivering</a></u> <u><a href="/high-quality">high-quality</a></u> <u><a href="/working-software">working software</a></u></p>
+  For <u><a href="https://agilemissingmanual.com/practices-and-techniques/drop-traditional-job-titles">software builders</a></u> that enjoy delivering <u><a href="/high-quality">high-quality</a></u> <u><a href="/working-software">working software</a></u></p>
 <p>Yes, it's actually daily. And yes, people actually stay subscribed.</p>
 """
   imageUrl = "/images/main.jpg"
