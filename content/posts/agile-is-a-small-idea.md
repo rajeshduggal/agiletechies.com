@@ -1,7 +1,7 @@
 +++
 author = 'Raj Duggal'
 title = 'Agile Is a Small Idea'
-date = 2024-09-19
+date = 2024-11-20
 tags = ["Robert C. Martin"]
 +++
 Robert C. Martin says that Agile is a small idea about the small problem of small programming teams doing small things.
