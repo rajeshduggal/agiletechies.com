@@ -6,6 +6,7 @@
         {{- if not (urls.Parse .imageUrl).IsAbs }}
             {{- $img = resources.Get .imageUrl }}
         {{- end }}
+        <a href="https://RajDuggal.com">
         {{- if $img }}
             {{- $processableFormats := (slice "jpg" "jpeg" "png" "tif" "bmp" "gif") -}}
             {{- if hugo.IsExtended -}}
@@ -29,6 +30,7 @@
         <img draggable="false" src="{{ .imageUrl | absURL }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}"
             height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
         {{- end }}
+        </a>
         {{- end }}
         <h1>{{ .title | default site.Title | markdownify }}</h1>
         <span>{{ .subtitle | markdownify }}</span>
