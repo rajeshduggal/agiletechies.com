@@ -73,7 +73,7 @@ images = [ "images/papermod-cover.png" ]
   imageUrl = "/images/main.jpg"
 
   [[params.profileMode.buttons]]
-  name = "Browse the archive"
+  name = "Not sure? Browse the archive >>"
   url = "archives"
 
   [params.homeInfoParams]
