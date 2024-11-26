@@ -42,25 +42,11 @@
 &lt;/ul&gt;</description>
     </item>
     <item>
-      <title>about</title>
-      <link>https://agiletechies.com/about/</link>
-      <pubDate>Sun, 25 Sep 2016 02:11:48 -0500</pubDate>
-      <guid>https://agiletechies.com/about/</guid>
-      <description>about this site</description>
-    </item>
-    <item>
       <title>High Quality Software</title>
       <link>https://agiletechies.com/high-quality-software/</link>
       <pubDate>Sun, 25 Sep 2016 02:11:48 -0500</pubDate>
       <guid>https://agiletechies.com/high-quality-software/</guid>
       <description>High Quality Software</description>
-    </item>
-    <item>
-      <title>Software Builders</title>
-      <link>https://agiletechies.com/software-builders/</link>
-      <pubDate>Sun, 25 Sep 2016 02:11:48 -0500</pubDate>
-      <guid>https://agiletechies.com/software-builders/</guid>
-      <description>Software Builders</description>
     </item>
     <item>
       <title>Working Software</title>
