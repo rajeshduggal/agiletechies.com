@@ -11,13 +11,13 @@
     </image>
     <generator>Hugo -- 0.136.5</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/tags/robert-c.-martin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Agile Is a Small Idea</title>
-      <link>https://agiletechies.com/posts/20240918-agile-is-a-small-idea/</link>
-      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://agiletechies.com/posts/20240918-agile-is-a-small-idea/</guid>
+      <link>https://agiletechies.com/posts/agile-is-a-small-idea/</link>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://agiletechies.com/posts/agile-is-a-small-idea/</guid>
       <description>&lt;p&gt;Robert C. Martin says that Agile is a small idea about the small problem of small programming teams doing small things.&lt;/p&gt;
 &lt;p&gt;Agile is not a big idea about the big problem of big programming teams doing big things.&lt;/p&gt;
 &lt;p&gt;Big things don’t get done by big teams; big things get done by the collaboration of many small teams doing many small things.&lt;/p&gt;
