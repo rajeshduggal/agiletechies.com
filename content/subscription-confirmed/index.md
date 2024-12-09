@@ -5,6 +5,8 @@ robotsNoIndex = true
 hiddenInHomelist = true
 disableShare = true
 searchHidden = true
+[sitemap]
+  disable = true
 +++
 
 Thanks for your interest!
