@@ -41,7 +41,8 @@ url = "tags/"
 weight = 10
 
 [outputs]
-home = [ "HTML", "RSS", "JSON" ]
+home = [ "HTML" ]
+section = [ "HTML", "RSS" ]
 
 [params]
 hideAuthor = true
@@ -49,7 +50,6 @@ DateFormat = "2006 January 2"
 mainsections = [ "posts" ]
 env = "production"
 description = "Raj Duggal coaches teams on how to develop and deliver high-quality software with an aim towards maximizing end-user value"
-author = "Raj Duggal"
 social = true
 defaultTheme = "auto"
 ShowShareButtons = true
@@ -63,6 +63,10 @@ ShowAllPagesInArchive = false
 ShowPageNums = true
 ShowToc = false
 images = [ "images/papermod-cover.png" ]
+
+  [params.author]
+  name = "Raj Duggal"
+  email = "rajesh@duggalmail.com"
 
   [params.profileMode]
   enabled = true
