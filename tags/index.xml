@@ -11,13 +11,29 @@
     </image>
     <generator>Hugo -- 0.136.5</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
+    <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
+    <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agile Movement</title>
+      <link>https://agiletechies.com/tags/agile-movement/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/tags/agile-movement/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Robert C. Martin</title>
       <link>https://agiletechies.com/tags/robert-c.-martin/</link>
-      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
       <guid>https://agiletechies.com/tags/robert-c.-martin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Uncle Bob</title>
+      <link>https://agiletechies.com/tags/uncle-bob/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/tags/uncle-bob/</guid>
       <description></description>
     </item>
   </channel>

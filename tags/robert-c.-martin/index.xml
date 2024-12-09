@@ -11,12 +11,21 @@
     </image>
     <generator>Hugo -- 0.136.5</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
+    <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
+    <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/tags/robert-c.-martin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Happened to The Agile Movement?</title>
+      <link>https://agiletechies.com/posts/what-happened-to-the-agile-movement/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/what-happened-to-the-agile-movement/</guid>
+      <description>Uncle bob explains how Agile was originally a movement invented by developers</description>
+    </item>
     <item>
       <title>Agile Is a Small Idea</title>
       <link>https://agiletechies.com/posts/agile-is-a-small-idea/</link>
-      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
       <guid>https://agiletechies.com/posts/agile-is-a-small-idea/</guid>
       <description>&lt;p&gt;Robert C. Martin says that Agile is a small idea about the small problem of small programming teams doing small things.&lt;/p&gt;
 &lt;p&gt;Agile is not a big idea about the big problem of big programming teams doing big things.&lt;/p&gt;
