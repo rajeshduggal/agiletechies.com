@@ -1,6 +1,6 @@
 +++
 title = 'Which Projects Work Well With Agile?'
-date = 2024-11-19
+date = 2025-01-28
 +++
 Agile works well for projects that have:
 * A low cost of change

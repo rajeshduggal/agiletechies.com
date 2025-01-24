@@ -2,11 +2,11 @@
 author = "Raj Duggal"
 title = "What Happened to The Agile Movement?"
 description = "Uncle bob explains how Agile was originally a movement invented by developers"
-date = 2024-12-09
+date = 2025-01-22
 tags = ["Robert C. Martin", "Uncle Bob", "Agile Movement"]
 +++
 
-{{< youtube iPnwhBP_Lmow >}}
+{{< youtube PnwhBP_Lmow >}}
 
 > Agile was developed by technical people it was a creation of the software industry programmers sat in that room
 and created the agile Manifesto and the agile principles.
