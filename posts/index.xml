@@ -13,42 +13,66 @@
     <language>en</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Iron Cross</title>
+      <link>https://agiletechies.com/posts/iron-cross/</link>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/iron-cross/</guid>
+      <description>&lt;p&gt;You may have heard of the &lt;strong&gt;&amp;ldquo;Iron Cross&amp;rdquo;&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Good&lt;/strong&gt; (Quality)&lt;/li&gt;
+&lt;li&gt;(Delivered) &lt;strong&gt;Fast&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cheap&lt;/strong&gt; (Under budget)&lt;/li&gt;
+&lt;li&gt;(Everything) &lt;strong&gt;Done&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Focus on any three you like, but you can’t have the fourth.&lt;/p&gt;
+&lt;p&gt;You can have a project that is &lt;strong&gt;good&lt;/strong&gt; quality, delivered on time &lt;strong&gt;fast&lt;/strong&gt;, and within budget and &lt;strong&gt;cheap&lt;/strong&gt;. But! not everything will get &lt;strong&gt;done&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Or, you can have a project that is all &lt;strong&gt;done&lt;/strong&gt;, &lt;strong&gt;cheap&lt;/strong&gt;, and &lt;strong&gt;fast&lt;/strong&gt;, but it won’t be &lt;strong&gt;good&lt;/strong&gt; quality.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Elephant in the Room: Agile Workflow Incompatibility</title>
+      <link>https://agiletechies.com/posts/elephant-in-the-room-agile-workflow-incompatibility/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/elephant-in-the-room-agile-workflow-incompatibility/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s important to not assume that the software your team is working is compatible with an agile workflow.&lt;/p&gt;
+&lt;p&gt;Agile is about &lt;em&gt;embracing change&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;And for that to happen, the software itself needs to be intentionally designed with adaptability in mind.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve joined many teams where the management and scrum master were on-board with following an agile approach, but they were   completely oblivious to the fact that the software being built wasn&amp;rsquo;t compatible with an agile workflow.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>What Happened to The Agile Movement?</title>
       <link>https://agiletechies.com/posts/what-happened-to-the-agile-movement/</link>
-      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
       <guid>https://agiletechies.com/posts/what-happened-to-the-agile-movement/</guid>
       <description>Uncle bob explains how Agile was originally a movement invented by developers</description>
     </item>
     <item>
+      <title>What is the Agile Software Development Approach?</title>
+      <link>https://agiletechies.com/posts/what-is-the-agile-software-development-approach/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/what-is-the-agile-software-development-approach/</guid>
+      <description>&lt;p&gt;The agile software development approach consists of working through a development project as a series of short, focused cycles. Often called &amp;ldquo;iterations&amp;rdquo; or &amp;ldquo;sprints&amp;rdquo;. After each iteration, the team evaluates the results and adjusts the plan as needed.&lt;/p&gt;
+&lt;p&gt;The high level concept of Agile is:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Deliver value first:&lt;/strong&gt;
+Features are built in the order of business value, ensuring the most valuable work is completed first.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Maintaining high quality:&lt;/strong&gt;
+Quality is a top priority throughout the development process, not just at the end.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Agile Is a Small Idea</title>
       <link>https://agiletechies.com/posts/agile-is-a-small-idea/</link>
-      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
       <guid>https://agiletechies.com/posts/agile-is-a-small-idea/</guid>
       <description>&lt;p&gt;Robert C. Martin says that Agile is a small idea about the small problem of small programming teams doing small things.&lt;/p&gt;
 &lt;p&gt;Agile is not a big idea about the big problem of big programming teams doing big things.&lt;/p&gt;
 &lt;p&gt;Big things don’t get done by big teams; big things get done by the collaboration of many small teams doing many small things.&lt;/p&gt;
 &lt;p&gt;To help popularize this, back in the early 2000s, the idea was given a name. “Agile.”&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Which Projects Work Well With Agile?</title>
-      <link>https://agiletechies.com/posts/which-projects-work-well-with-agile/</link>
-      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
-      <guid>https://agiletechies.com/posts/which-projects-work-well-with-agile/</guid>
-      <description>&lt;p&gt;Agile works well for projects that have:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;A low cost of change&lt;/li&gt;
-&lt;li&gt;Problems that are discovered along the way.&lt;/li&gt;
-&lt;li&gt;Informally specified goals, that could alter.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;A more traditional approach might be a better option when:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The cost of change is high.&lt;/li&gt;
-&lt;li&gt;The complete set of problems are known up-front.&lt;/li&gt;
-&lt;li&gt;The goals are very specific and fully understood from the start.&lt;/li&gt;
-&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
