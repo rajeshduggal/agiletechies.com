@@ -1,7 +1,7 @@
 +++
 author = "Raj Duggal"
 title = "What Happened to The Agile Movement?"
-description = "Uncle bob explains how Agile was originally a movement invented by developers"
+description = "Uncle Bob explains how Agile was originally a movement invented by developers"
 date = 2025-01-22
 tags = ["Robert C. Martin", "Uncle Bob", "Agile Movement"]
 +++
