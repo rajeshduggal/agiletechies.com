@@ -13,8 +13,41 @@
     <language>en</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Fri, 24 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Which Projects Work Well With Agile?</title>
+      <link>https://agiletechies.com/posts/which-projects-work-well-with-agile/</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/which-projects-work-well-with-agile/</guid>
+      <description>&lt;p&gt;Agile works well for projects that have:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A low cost of change&lt;/li&gt;
+&lt;li&gt;Problems that are discovered along the way.&lt;/li&gt;
+&lt;li&gt;Informally specified goals, that could alter.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A more traditional approach might be a better option when:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The cost of change is high.&lt;/li&gt;
+&lt;li&gt;The complete set of problems are known up-front.&lt;/li&gt;
+&lt;li&gt;The goals are very specific and fully understood from the start.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>The Iron Triangle</title>
+      <link>https://agiletechies.com/posts/iron-triangle/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/iron-triangle/</guid>
+      <description>&lt;p&gt;You may have heard of the &lt;strong&gt;&amp;ldquo;Iron Cross&amp;rdquo;&lt;/strong&gt;.
+Have you heard of the &lt;strong&gt;&amp;ldquo;Iron Triangle&amp;rdquo;&lt;/strong&gt;?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Quality (Deliver what&amp;rsquo;s expected. And account for all of the exceptional scenarios flows)&lt;/li&gt;
+&lt;li&gt;Scope (How much stuff is delivered)&lt;/li&gt;
+&lt;li&gt;Resources (Time, brains, tools, dollars, etc.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Pick any two, and the third is a variable.&lt;/p&gt;
+&lt;p&gt;Inevitably, we will want “Quality” to be maxed out. So, we can only focus on “Scope” or “Resources.” If we want a larger scope of work completed, we need to increase the resources. Alternatively, if resources are fixed, we must accept and define how much scope of work we can realistically complete.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Iron Cross</title>
       <link>https://agiletechies.com/posts/iron-cross/</link>
@@ -46,7 +79,7 @@
       <link>https://agiletechies.com/posts/what-happened-to-the-agile-movement/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
       <guid>https://agiletechies.com/posts/what-happened-to-the-agile-movement/</guid>
-      <description>Uncle bob explains how Agile was originally a movement invented by developers</description>
+      <description>Uncle Bob explains how Agile was originally a movement invented by developers</description>
     </item>
     <item>
       <title>What is the Agile Software Development Approach?</title>
