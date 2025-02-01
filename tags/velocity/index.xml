@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Velocity on The Agile Techies Daily List</title>
+    <link>https://agiletechies.com/tags/velocity/</link>
+    <description>Recent content in Velocity on The Agile Techies Daily List</description>
+    <image>
+      <title>The Agile Techies Daily List</title>
+      <url>https://agiletechies.com/images/papermod-cover.png</url>
+      <link>https://agiletechies.com/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.136.5</generator>
+    <language>en</language>
+    <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
+    <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
+    <lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://agiletechies.com/tags/velocity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Velocity Chart Problem</title>
+      <link>https://agiletechies.com/posts/velocity-chart-problem/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/velocity-chart-problem/</guid>
+      <description>&lt;p&gt;The Velocity Chart records how many story points are completed during each iteration sprint.&lt;/p&gt;
+&lt;p&gt;This is an important chart to have, and I recommend it to all my clients.&lt;/p&gt;
+&lt;p&gt;The problem is that many teams use this chart incorrectly. They try to use it to measure how much work the team should aim to complete in the next sprint.&lt;/p&gt;
+&lt;p&gt;Towards the end of the sprint, this can create pressure on the team to work faster to meet that objective (often by secretly compromising on quality). Alternatively, it can cause the team to slow down and stretch their work pace so that their last bit of work aligns with the sprint end date. This way, they avoid closing all their tickets and being left with nothing to report in the daily meeting.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

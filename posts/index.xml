@@ -13,8 +13,36 @@
     <language>en</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Velocity Chart Problem</title>
+      <link>https://agiletechies.com/posts/velocity-chart-problem/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/velocity-chart-problem/</guid>
+      <description>&lt;p&gt;The Velocity Chart records how many story points are completed during each iteration sprint.&lt;/p&gt;
+&lt;p&gt;This is an important chart to have, and I recommend it to all my clients.&lt;/p&gt;
+&lt;p&gt;The problem is that many teams use this chart incorrectly. They try to use it to measure how much work the team should aim to complete in the next sprint.&lt;/p&gt;
+&lt;p&gt;Towards the end of the sprint, this can create pressure on the team to work faster to meet that objective (often by secretly compromising on quality). Alternatively, it can cause the team to slow down and stretch their work pace so that their last bit of work aligns with the sprint end date. This way, they avoid closing all their tickets and being left with nothing to report in the daily meeting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Scientific Management (Taylorism)</title>
+      <link>https://agiletechies.com/posts/scientific-management/</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/scientific-management/</guid>
+      <description>&lt;p&gt;Before we had the light-weight agile type of development approaches there were two modes of thinking about how software should be built.&lt;/p&gt;
+&lt;p&gt;The light-weight approach (agile before it was called “agile”) worked well for projects that enjoyed a low cost of change, and solved partially defined problems with informally specified goals.&lt;/p&gt;
+&lt;p&gt;The other perspective was more aligned with “Scientific Management” which worked best for projects that suffered a high cost of change and solved very well-defined problems with extremely specific goals.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sprint Or Marathon?</title>
+      <link>https://agiletechies.com/posts/sprint-or-marathon/</link>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/sprint-or-marathon/</guid>
+      <description>&lt;p&gt;I’m not particularly fond of the term &amp;ldquo;sprint&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;The word &amp;ldquo;sprint&amp;rdquo; often gives the impression that the team needs to prioritize on working as fast as possible. And inadvertently creates pressure to complete every user story before the end of the sprint, sometimes at the expense of quality, or by allowing technical debt to build up.&lt;/p&gt;
+&lt;p&gt;In reality, agile development is more like a marathon, where we maintain a healthy, steady, sustainable pace. It’s not a relay race where teams sprint as fast as they can, trying not to drop the baton at the end of each leg.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Which Projects Work Well With Agile?</title>
       <link>https://agiletechies.com/posts/which-projects-work-well-with-agile/</link>
