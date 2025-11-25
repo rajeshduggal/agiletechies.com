@@ -1,0 +1,15 @@
+# Add article to website
+* publish_to_gh-pages.sh
+
+# Add article to convertkit 
+* https://app.kit.com/sequences/2152264
+* "Add Email" copy and paste in the article from the website.
+* Prepend "AgileTechies: " on the subject line.
+* Remove all formating except, lists, bold, and italics.
+
+* Click "Send this email" and uncheck Saturday and Sunday.
+* If it's an email for techies, click the filter icon and choose "Subscribed to Technical Developer Posts".
+* Click "Published".
+
+# Upgrade papermod theme
+* hugo mod get -u github.com/adityatelange/hugo-PaperMod
