@@ -9,12 +9,53 @@
       <url>https://agiletechies.com/images/papermod-cover.png</url>
       <link>https://agiletechies.com/images/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- 0.136.5</generator>
+    <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Teams Don&#39;t Split Huge Stories</title>
+      <link>https://agiletechies.com/posts/why-teams-dont-split-huge-stories/</link>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/why-teams-dont-split-huge-stories/</guid>
+      <description>&lt;p&gt;A team creates a user story for a full calendar feature. The PO, BA, UX, and accessibility SME add pages of detail so developers have everything they need.&lt;/p&gt;
+&lt;p&gt;When developers see the ticket, they know it’s far too big. It needs splitting—but rewriting all that detail feels time‑consuming, inconvenient, and no one volunteers to do it.&lt;/p&gt;
+&lt;p&gt;So the team decides to work on the giant story as-is and &amp;ldquo;figure out the rest later.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Does Your Team Avoid Updating Code Comments?</title>
+      <link>https://agiletechies.com/posts/does-your-team-avoid-updating-code-comments/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/does-your-team-avoid-updating-code-comments/</guid>
+      <description>&lt;p&gt;Something to discuss with your team:&lt;/p&gt;
+&lt;p&gt;You&amp;rsquo;re working on a ticket, deep in your own task. Then you notice something odd: in a completely unrelated part of the codebase, the comments don&amp;rsquo;t match what the code actually does.&lt;/p&gt;
+&lt;p&gt;Strange.&lt;/p&gt;
+&lt;p&gt;Maybe someone changed the logic earlier but forgot to update the comments.&lt;/p&gt;
+&lt;p&gt;Now imagine this was your &lt;strong&gt;solo project&lt;/strong&gt;. You&amp;rsquo;d probably just fix the comment right away. Write a quick update, commit it, done. How long would that take? A couple of minutes, maybe?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Runaway Process Inflation</title>
+      <link>https://agiletechies.com/posts/runaway-process-inflation/</link>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/runaway-process-inflation/</guid>
+      <description>&lt;h2 id=&#34;the-hidden-cost-of-too-much-process&#34;&gt;The Hidden Cost of Too Much Process&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;ve seen many teams fall into the trap of &lt;em&gt;Runaway Process Inflation&lt;/em&gt;.  They start with simple workflows, then gradually adding more steps in the name of efficiency. Yet each new step can subtly slow delivery instead of helping.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;More process doesn’t always mean more effectiveness.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Before adding a checklist, approval, or workflow gate, consider:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Does this help us deliver working software faster?&lt;/li&gt;
+&lt;li&gt;Does it speed up feedback or slow it down?&lt;/li&gt;
+&lt;li&gt;Does it improve decisions or just add paperwork?&lt;/li&gt;
+&lt;li&gt;Are we solving a real issue or simply creating the illusion of control?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;the-essential-question&#34;&gt;The Essential Question&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;How will this affect our ability to get changes in front of customers?&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>What Makes The Velocity Chart Useful</title>
       <link>https://agiletechies.com/posts/useful-velocity-chart/</link>
