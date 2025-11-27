@@ -13,8 +13,25 @@
     <language>en</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Fri, 07 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rhythm Not A Sequence</title>
+      <link>https://agiletechies.com/posts/rhythm-not-sequence/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/rhythm-not-sequence/</guid>
+      <description>&lt;p&gt;Agile development isn&amp;rsquo;t &amp;ldquo;Waterfall sliced into smaller pieces&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Too often we treat iterations like mini-projects:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Analysis at the start&lt;/li&gt;
+&lt;li&gt;Coding in the middle&lt;/li&gt;
+&lt;li&gt;Testing at the end&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;But that&amp;rsquo;s not Agile — that&amp;rsquo;s Waterfall on shuffle mode.&lt;/p&gt;
+&lt;p&gt;In true Agile development, &lt;strong&gt;requirements, architecture, design, and implementation happen continuously throughout the iteration.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We learn → adjust → build → validate → repeat.&lt;/p&gt;
+&lt;p&gt;This flow isn&amp;rsquo;t a sequence — it&amp;rsquo;s a &lt;em&gt;rhythm&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>YAGNI – You Aren&#39;t Gonna Need It (Yet!)</title>
       <link>https://agiletechies.com/posts/yagni-yet/</link>
