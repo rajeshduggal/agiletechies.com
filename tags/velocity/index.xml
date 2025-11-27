@@ -13,8 +13,18 @@
     <language>en</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/tags/velocity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Makes The Velocity Chart Useful</title>
+      <link>https://agiletechies.com/posts/useful-velocity-chart/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/useful-velocity-chart/</guid>
+      <description>&lt;p&gt;The Velocity Chart records how many story points are completed in each iteration sprint.&lt;/p&gt;
+&lt;p&gt;This is an important chart to have, and I recommend it to all my clients.&lt;/p&gt;
+&lt;p&gt;As the team creates user stories, they are added to the backlog. At some point, those stories need to move into the current sprint.&lt;/p&gt;
+&lt;p&gt;But how many stories should we move into the sprint? We won’t know until we’ve done some basic estimations to get an idea of how many we should pull from the top of the backlog.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Velocity Chart Problem</title>
       <link>https://agiletechies.com/posts/velocity-chart-problem/</link>

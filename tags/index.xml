@@ -13,13 +13,27 @@
     <language>en</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stories</title>
+      <link>https://agiletechies.com/tags/stories/</link>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/tags/stories/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Velocity</title>
       <link>https://agiletechies.com/tags/velocity/</link>
-      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
       <guid>https://agiletechies.com/tags/velocity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Iron Triangle</title>
+      <link>https://agiletechies.com/tags/iron-triangle/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/tags/iron-triangle/</guid>
       <description></description>
     </item>
     <item>

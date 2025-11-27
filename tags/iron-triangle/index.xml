@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Iron Triangle on The Agile Techies Daily List</title>
+    <link>https://agiletechies.com/tags/iron-triangle/</link>
+    <description>Recent content in Iron Triangle on The Agile Techies Daily List</description>
+    <image>
+      <title>The Agile Techies Daily List</title>
+      <url>https://agiletechies.com/images/papermod-cover.png</url>
+      <link>https://agiletechies.com/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
+    <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
+    <lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://agiletechies.com/tags/iron-triangle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Iron Triangle</title>
+      <link>https://agiletechies.com/posts/iron-triangle/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/iron-triangle/</guid>
+      <description>&lt;p&gt;You may have heard of the &lt;strong&gt;&amp;ldquo;Iron Cross&amp;rdquo;&lt;/strong&gt;.
+Have you heard of the &lt;strong&gt;&amp;ldquo;Iron Triangle&amp;rdquo;&lt;/strong&gt;?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Quality (Deliver what&amp;rsquo;s expected. And account for all of the exceptional scenarios flows)&lt;/li&gt;
+&lt;li&gt;Scope (How much stuff is delivered)&lt;/li&gt;
+&lt;li&gt;Resources (Time, brains, tools, dollars, etc.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Pick any two, and the third is a variable.&lt;/p&gt;
+&lt;p&gt;Inevitably, we will want “Quality” to be maxed out. So, we can only focus on “Scope” or “Resources.” If we want a larger scope of work completed, we need to increase the resources. Alternatively, if resources are fixed, we must accept and define how much scope of work we can realistically complete.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Iron Cross</title>
+      <link>https://agiletechies.com/posts/iron-cross/</link>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/iron-cross/</guid>
+      <description>&lt;p&gt;You may have heard of the &lt;strong&gt;&amp;ldquo;Iron Cross&amp;rdquo;&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Good&lt;/strong&gt; (Quality)&lt;/li&gt;
+&lt;li&gt;(Delivered) &lt;strong&gt;Fast&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cheap&lt;/strong&gt; (Under budget)&lt;/li&gt;
+&lt;li&gt;(Everything) &lt;strong&gt;Done&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Focus on any three you like, but you can’t have the fourth.&lt;/p&gt;
+&lt;p&gt;You can have a project that is &lt;strong&gt;good&lt;/strong&gt; quality, delivered on time &lt;strong&gt;fast&lt;/strong&gt;, and within budget and &lt;strong&gt;cheap&lt;/strong&gt;. But! not everything will get &lt;strong&gt;done&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Or, you can have a project that is all &lt;strong&gt;done&lt;/strong&gt;, &lt;strong&gt;cheap&lt;/strong&gt;, and &lt;strong&gt;fast&lt;/strong&gt;, but it won’t be &lt;strong&gt;good&lt;/strong&gt; quality.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

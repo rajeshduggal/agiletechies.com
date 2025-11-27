@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Stories on The Agile Techies Daily List</title>
+    <link>https://agiletechies.com/tags/stories/</link>
+    <description>Recent content in Stories on The Agile Techies Daily List</description>
+    <image>
+      <title>The Agile Techies Daily List</title>
+      <url>https://agiletechies.com/images/papermod-cover.png</url>
+      <link>https://agiletechies.com/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
+    <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
+    <lastBuildDate>Thu, 06 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://agiletechies.com/tags/stories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Teams Don&#39;t Split Huge Stories</title>
+      <link>https://agiletechies.com/posts/why-teams-dont-split-huge-stories/</link>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/why-teams-dont-split-huge-stories/</guid>
+      <description>&lt;p&gt;A team creates a user story for a full calendar feature. The PO, BA, UX, and accessibility SME add pages of detail so developers have everything they need.&lt;/p&gt;
+&lt;p&gt;When developers see the ticket, they know it’s far too big. It needs splitting—but rewriting all that detail feels time‑consuming, inconvenient, and no one volunteers to do it.&lt;/p&gt;
+&lt;p&gt;So the team decides to work on the giant story as-is and &amp;ldquo;figure out the rest later.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
