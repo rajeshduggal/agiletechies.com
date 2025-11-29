@@ -13,8 +13,18 @@
     <language>en</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Thu, 13 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>When &#34;All of it by New Year&#34; Meets the Data</title>
+      <link>https://agiletechies.com/posts/when-all-of-it-by-new-year-meets-the-data/</link>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/when-all-of-it-by-new-year-meets-the-data/</guid>
+      <description>&lt;p&gt;Have you ever had the project stakeholders demand everything by a fixed date?&lt;/p&gt;
+&lt;p&gt;Tell them plainly — &lt;em&gt;if you want every feature, the timeline will stretch.&lt;/em&gt; Don&amp;rsquo;t argue; Show the data.&lt;/p&gt;
+&lt;p&gt;When stakeholders insist, ask them to choose: accept a later date or reduce scope. In rational organizations the numbers win: teams deliver what&amp;rsquo;s prioritized.&lt;/p&gt;
+&lt;p&gt;Help the stakeholders &lt;em&gt;scrutinize&lt;/em&gt; the plan, identify what truly must ship by the deadline, and gently defer the rest. It hurts to drop features, but real choices beat false promises.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Go Fast by Going Well</title>
       <link>https://agiletechies.com/posts/go-fast-by-going-well/</link>
