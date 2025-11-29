@@ -2,13 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://agiletechies.com/posts/</loc>
-    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+    <loc>https://agiletechies.com/posts/go-fast-by-going-well/</loc>
+    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://agiletechies.com/posts/rhythm-not-sequence/</loc>
-    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+    <loc>https://agiletechies.com/posts/</loc>
+    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://agiletechies.com/</loc>
+    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://agiletechies.com/posts/should-we-add-more-builders/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://agiletechies.com/posts/kill-the-hope/</loc>
+    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://agiletechies.com/posts/rhythm-not-sequence/</loc>
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://agiletechies.com/posts/yagni-yet/</loc>

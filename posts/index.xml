@@ -13,8 +13,38 @@
     <language>en</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go Fast by Going Well</title>
+      <link>https://agiletechies.com/posts/go-fast-by-going-well/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/go-fast-by-going-well/</guid>
+      <description>&lt;p&gt;The fastest way to finish is &lt;em&gt;not&lt;/em&gt; to cut corners — it&amp;rsquo;s to raise the bar on quality.&lt;/p&gt;
+&lt;p&gt;Quick‑and‑dirty doesn&amp;rsquo;t speeds things up. &lt;strong&gt;Trash code, missing tests, skipped reviews - they slow the team down.&lt;/strong&gt; When technical debt accumulates, every change takes longer, bugs multiply, and momentum dies.&lt;/p&gt;
+&lt;p&gt;Instead do things well: keep tests in the flow, do reviews, refactor relentlessly, and protect sustainable work practices. These habits look slower at first, but they pay back quickly in reduced rework and faster, safer delivery.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Should We Add More Builders?</title>
+      <link>https://agiletechies.com/posts/should-we-add-more-builders/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/should-we-add-more-builders/</guid>
+      <description>&lt;p&gt;Piling in fresh people onto a late project is rarely the quick fix managers hope for.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Brooks&amp;rsquo; Law is real:&lt;/strong&gt; &lt;em&gt;adding manpower to a late project makes it later.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;When new people arrive, productivity usually plunges while the team absorbs them. Veterans spend time teaching instead of building, and team recovery is slow moving - if it does at all.&lt;/p&gt;
+&lt;p&gt;Hiring can help over the long haul, but as a fast remedy it&amp;rsquo;s a gamble. Often budgets won&amp;rsquo;t allow more staff, so the practical levers are &lt;strong&gt;scope, quality,&lt;/strong&gt; and how the current team works together.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kill The Hope</title>
+      <link>https://agiletechies.com/posts/kill-the-hope/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/kill-the-hope/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s our job to &lt;em&gt;kill dangerous hope early&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hope&lt;/strong&gt; lets teams give optimistic answers that hide real progress. That&amp;rsquo;s how projects quietly fail.&lt;/p&gt;
+&lt;p&gt;Instead we should aim to gather hard data every iteration so managers, product owners, and stakeholders can make real decisions instead of wishful guesses.&lt;/p&gt;
+&lt;p&gt;This isn&amp;rsquo;t about going faster - it&amp;rsquo;s about learning the truth as soon as possible so we can &lt;strong&gt;manage&lt;/strong&gt; trade‑offs effectively.&lt;/p&gt;
+&lt;p&gt;Delivering hard facts quickly gives us options; clinging to hope removes them. I encourage teams to treat iteration feedback as a tool for making pragmatic, timely choices.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Rhythm Not A Sequence</title>
       <link>https://agiletechies.com/posts/rhythm-not-sequence/</link>
