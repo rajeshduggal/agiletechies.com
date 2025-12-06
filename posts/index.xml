@@ -13,8 +13,26 @@
     <language>en</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Fri, 14 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Extreme Programming</title>
+      <link>https://agiletechies.com/posts/extreme-programming/</link>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/extreme-programming/</guid>
+      <description>&lt;p&gt;Of all the agile processes, Extreme Programming (XP) is the clearest, most complete, and least muddled.&lt;/p&gt;
+&lt;p&gt;Many other software developerment approaches that were invented afterwards are a subset of - or a variation on XP. I don’t dismiss those approaches; some fit specific projects types. But when I want my builders to learn what the original agile software development approach was about, I point them to XP as a great template to start with.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Business Value Order</title>
+      <link>https://agiletechies.com/posts/business-value-order/</link>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/business-value-order/</guid>
+      <description>&lt;p&gt;Want to stop wasting time building the wrong thing. Every iteration ask the stakeholders,&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;what should we build next?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;They answer in business-value order, and we implement in that order.&lt;/p&gt;
+&lt;p&gt;Yes, features have dependencies — we&amp;rsquo;re builders; we handle them. The point is simple: let stakeholders decide priority so the team can focus on delivering value. When stakeholders say a feature is low value, we don&amp;rsquo;t build it yet. When they point to something critical, we give it attention first.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>When &#34;All of it by New Year&#34; Meets the Data</title>
       <link>https://agiletechies.com/posts/when-all-of-it-by-new-year-meets-the-data/</link>
