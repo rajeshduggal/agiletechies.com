@@ -13,8 +13,25 @@
     <language>en</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Tue, 18 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Upping Our Game: Professionalism</title>
+      <link>https://agiletechies.com/posts/professionalism/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/professionalism/</guid>
+      <description>&lt;p&gt;Agile development prizes discipline over ceremony.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s a promise to raise our craft and to foster professional behavior across all aspects of software development.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve seen teams ship junk, and just casually accept defects, and make poor lazy trade-offs. It&amp;rsquo;s surprising to see some of those habits being tolerated at some organizations.&lt;/p&gt;
+&lt;p&gt;If we want respect for our work, quality and discipline must be nonnegotiable.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Discussions for your team&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Are we being professional and constantly finding opportunities to pair, clean out tech debt, and refactor?&lt;/li&gt;
+&lt;li&gt;Do our cycles produce quality (almost) bug free output each time?&lt;/li&gt;
+&lt;li&gt;What practices are we following to prevent unsafe or low-quality releases?&lt;/li&gt;
+&lt;li&gt;How are we guiding our team to continually improve our level of professionalism?&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Extreme Programming</title>
       <link>https://agiletechies.com/posts/extreme-programming/</link>
