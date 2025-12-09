@@ -13,8 +13,17 @@
     <language>en</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thirty Computers in the Room</title>
+      <link>https://agiletechies.com/posts/software-is-everywhere/</link>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/software-is-everywhere/</guid>
+      <description>&lt;p&gt;Look around now - how many computers are in the room?&lt;/p&gt;
+&lt;p&gt;I count about thirty. Phones, the TV, my dyson heater, my headset, my oura ring, remote controls : nearly everything with a button on it runs software.&lt;/p&gt;
+&lt;p&gt;That matters because &lt;em&gt;every&lt;/em&gt; one of those devices needs code written by teams likes yours. Software touches law, health, transport, and food systems. And small mistakes can cascade into real harm. As software builders, we must treat our craft as responsible work: design carefully, test relentlessly, and assume our code has consequences beyond the screen.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Upping Our Game: Professionalism</title>
       <link>https://agiletechies.com/posts/professionalism/</link>
