@@ -13,8 +13,18 @@
     <language>en</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Thu, 20 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>We Will Not Ship Crap: The Builder&#39;s Promise</title>
+      <link>https://agiletechies.com/posts/we-will-not-ship-crap/</link>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/we-will-not-ship-crap/</guid>
+      <description>&lt;p&gt;As a team we should expect one simple thing from our work:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We will not ship crap&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Managers, customers, and users reasonably expect high-quality systems with few defects. When we slack on quality, we betray that trust.&lt;/p&gt;
+&lt;p&gt;The team must push practices that stop bad code: testing, refactoring, simple design, and continuous customer feedback. These are not ceremonies — they&amp;rsquo;re tools that make quality repeatable. Builders should treat them as nonnegotiable habits, not optional extras. Doing so keeps our work dependable and our reputation intact.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Thirty Computers in the Room</title>
       <link>https://agiletechies.com/posts/software-is-everywhere/</link>
