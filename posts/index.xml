@@ -13,8 +13,18 @@
     <language>en</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Focus on Finishing, Not Starting</title>
+      <link>https://agiletechies.com/posts/focus-on-finsihing-not-starting/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/focus-on-finsihing-not-starting/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s important to focus on delivering value quickly rather than starting something early.&lt;/p&gt;
+&lt;p&gt;The last thing customers and managers expect is that it&amp;rsquo;s common for software building teams to unintentionally create artificial delays. Yet teams do this all the time by trying to build every feature at once.&lt;/p&gt;
+&lt;p&gt;Half‑done or half‑tested features pile up and prevent deployment.&lt;/p&gt;
+&lt;p&gt;Instead it&amp;rsquo;s better to prioritize the most important features first and finish them end‑to‑end. Deliver vertical slices and only call it &amp;ldquo;done&amp;rdquo; when an the code, the tests, and the docs are finalized. And consider using feature toggles when you must decouple rollout from completion.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>We Will Not Ship Crap: The Builder&#39;s Promise</title>
       <link>https://agiletechies.com/posts/we-will-not-ship-crap/</link>
