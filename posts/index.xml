@@ -13,8 +13,17 @@
     <language>en</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Make Deployment a Business Decision</title>
+      <link>https://agiletechies.com/posts/make-deployment-a-business-decision/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/make-deployment-a-business-decision/</guid>
+      <description>&lt;p&gt;Some teams create a &amp;ldquo;stabilization&amp;rdquo; window after a sprint because features are half done, half tested, or half documented.&lt;/p&gt;
+&lt;p&gt;This delivery delay frustrates customers.&lt;/p&gt;
+&lt;p&gt;A better approach is to have systems in place that enables our software to always be &lt;em&gt;technically deployable&lt;/em&gt; at the end of every iteration. From the builders&amp;rsquo; point of view that means code is clean, tests pass, documentation up to date, and the implemented stories are stabilized.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Focus on Finishing, Not Starting</title>
       <link>https://agiletechies.com/posts/focus-on-finsihing-not-starting/</link>
