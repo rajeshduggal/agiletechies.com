@@ -13,8 +13,18 @@
     <language>en</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Continuous Cleanup</title>
+      <link>https://agiletechies.com/posts/continuous-cleanup/</link>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/continuous-cleanup/</guid>
+      <description>&lt;p&gt;We want steady velocity, not wild swings.&lt;/p&gt;
+&lt;p&gt;Have you noticed how early in our projects we fly; but later, code messes pile up. That mess creates back pressure - the bigger the mess, the slower our team goes.&lt;/p&gt;
+&lt;p&gt;And then our slow team faces even more schedule pressure, which encourages quick hacks that make the mess worse. That feedback loop can grind the team toward immobility.&lt;/p&gt;
+&lt;p&gt;The &amp;ldquo;fix&amp;rdquo; is often, to add more people, but the new hires learn from the existing messy code base, and they often take on the same behaviors that produced it.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Make Deployment a Business Decision</title>
       <link>https://agiletechies.com/posts/make-deployment-a-business-decision/</link>
