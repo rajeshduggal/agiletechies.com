@@ -13,8 +13,26 @@
     <language>en</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Wed, 26 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software Is Supposed To Be Soft</title>
+      <link>https://agiletechies.com/posts/software-is-supposed-to-be-soft/</link>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/software-is-supposed-to-be-soft/</guid>
+      <description>&lt;p&gt;Software exists to be changed. &amp;ldquo;Ware&amp;rdquo; means product; &amp;ldquo;soft&amp;rdquo; means easy to change. If our systems are hard to alter, we&amp;rsquo;ve turned software into hardware by mistake.&lt;/p&gt;
+&lt;p&gt;When requirements shift and builders complain, &lt;em&gt;&amp;ldquo;That change breaks our architecture,&amp;rdquo;&lt;/em&gt; it&amp;rsquo;s a clear indication that the architecture sucks!&lt;/p&gt;
+&lt;p&gt;Embrace change as the point of the work. We make change inexpensive by focusing on tests, refactoring, simple design, and pairing. And we build architectures that bend without snapping so the team can deliver value continuously instead of fighting the codebase.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What Does Your Code-base teach?</title>
+      <link>https://agiletechies.com/posts/what-does-your-codebase-teach/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/what-does-your-codebase-teach/</guid>
+      <description>&lt;p&gt;Your codebase is one of the team&amp;rsquo;s primary teachers.&lt;/p&gt;
+&lt;p&gt;New people don&amp;rsquo;t learn from manuals, they learn by reading the existing code and copying its habits. If the code is messy, newcomers adopt those same messy habits. And adding heads only multiplies the problem: more people results in more copies of the same bad patterns, and so productivity keeps sliding.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve seen managers repeat the same fix — hire more — and expect different results. But that rarely works. The real solution is to change what the code teaches: make it readability, testable, and make refactoring a norm.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Continuous Cleanup</title>
       <link>https://agiletechies.com/posts/continuous-cleanup/</link>
