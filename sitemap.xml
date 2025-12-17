@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://agiletechies.com/posts/</loc>
-    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+    <loc>https://agiletechies.com/posts/keep-software-easy-to-change/</loc>
+    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://agiletechies.com/posts/software-is-supposed-to-be-soft/</loc>
-    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+    <loc>https://agiletechies.com/posts/</loc>
+    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://agiletechies.com/</loc>
+    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://agiletechies.com/posts/celebrate-change-its-why-were-here/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://agiletechies.com/posts/software-is-supposed-to-be-soft/</loc>
     <lastmod>2025-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://agiletechies.com/posts/what-does-your-codebase-teach/</loc>

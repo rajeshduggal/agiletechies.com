@@ -13,8 +13,27 @@
     <language>en</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Keep Software Easy to Change</title>
+      <link>https://agiletechies.com/posts/keep-software-easy-to-change/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/keep-software-easy-to-change/</guid>
+      <description>&lt;p&gt;If the software is hard to change, we&amp;rsquo;ve defeated its purpose.&lt;/p&gt;
+&lt;p&gt;Customers, users, and managers rightly expect that changes are straightforward and proportionate in cost. When change becomes costly, trust and velocity evaporate.&lt;/p&gt;
+&lt;p&gt;The fix is practical, not mystical.  Make change cheap by practicing TDD, continuous refactoring, and simple design. Tests give us safety to refactor. Refactoring keeps the codebase healthy. Simple design prevents unnecessary coupling. Together these habits make systems that bend without breaking and let builders deliver value rapidly and reliably.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Celebrate Change, It&#39;s Why We&#39;re Here</title>
+      <link>https://agiletechies.com/posts/celebrate-change-its-why-were-here/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/celebrate-change-its-why-were-here/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;re in this team to make changes. It&amp;rsquo;s not a nuisance - it&amp;rsquo;s the job.&lt;/p&gt;
+&lt;p&gt;Our careers and our value come from making change cheap and safe.&lt;/p&gt;
+&lt;p&gt;That means designing for adaptability, writing tests that protect refactors, keeping designs simple, and automating where we can. We celebrate change by making it routine: small batches, continuous refactoring, and visible tests so every builder can evolve the system without fear.&lt;/p&gt;
+&lt;p&gt;When we make change inexpensive, the business gets faster feedback, customers get better products, and builders do the work we were hired to do.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Software Is Supposed To Be Soft</title>
       <link>https://agiletechies.com/posts/software-is-supposed-to-be-soft/</link>
