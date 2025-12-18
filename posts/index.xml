@@ -13,8 +13,28 @@
     <language>en</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Tue, 04 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Don&#39;t Let Fear Steal Improvement</title>
+      <link>https://agiletechies.com/posts/dont-let-fear-steal-improvement/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/dont-let-fear-steal-improvement/</guid>
+      <description>&lt;p&gt;One of the most common reasons systems don&amp;rsquo;t improve is the &lt;em&gt;fear of change&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;We see ugly code and think, &amp;ldquo;I should clean it,&amp;rdquo; then we stop because we&amp;rsquo;re afraid we&amp;rsquo;ll break it — and if we break it, it becomes ours. This fear freezes teams, lets messes grow, and erodes competence.&lt;/p&gt;
+&lt;p&gt;Customers, users, and managers expect &lt;em&gt;fearless competence&lt;/em&gt;: when we see dirt, we clean it.&lt;/p&gt;
+&lt;p&gt;We can make cleaning a regular routine on-going activity by reducing the risks — fast automated feedback, small safe refactors, pairing, and continuous integration. When we&amp;rsquo;re able to clean confidently the code will naturally improve.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Keep Getting Better</title>
+      <link>https://agiletechies.com/posts/keep-getting-better/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/keep-getting-better/</guid>
+      <description>&lt;p&gt;Our software should improve with time.&lt;/p&gt;
+&lt;p&gt;Painters refine paintings and homeowners improve houses - our software should get better, not worse, as we work on it.&lt;/p&gt;
+&lt;p&gt;Continuous improvement means the architecture, code, and performance progressively mature. If we accept creeping cruft and brittle designs, we betray our users and stakeholders.&lt;/p&gt;
+&lt;p&gt;Instead, let&amp;rsquo;s make daily habits of pairing, TDD, refactoring, and simple design. These practices let help us to steadily reduce technical debt, increase throughput, and make the system safer to change.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Keep Software Easy to Change</title>
       <link>https://agiletechies.com/posts/keep-software-easy-to-change/</link>
