@@ -13,8 +13,26 @@
     <language>en</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QA Finds Nothing</title>
+      <link>https://agiletechies.com/posts/qa-finds-nothing/</link>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/qa-finds-nothing/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Make Testing a Non‑Event&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Quality as everyone&amp;rsquo;s job. Yet, most of the established teams I&amp;rsquo;ve joined over the years have dedicated people that take some of the responsibility of QA from the others.&lt;/p&gt;
+&lt;p&gt;It sounds like a strange way to organize a team when we hear it described that way.&lt;/p&gt;
+&lt;p&gt;When there is a QA phase, then it should be the norm to hear that &amp;ldquo;Everything works.&amp;rdquo; And in those rare circumstances when QA finds a fault, the builders should ask, &amp;ldquo;What in our process let this slip?&amp;rdquo; and fix that process so that next time QA will find nothing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fear Removal Button</title>
+      <link>https://agiletechies.com/posts/fear-removal-button/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/fear-removal-button/</guid>
+      <description>&lt;p&gt;Imagine a button that lights green if the system works and red if it breaks - and it returns results in seconds. You&amp;rsquo;d probably press it after every tiny change. That fast feedback would remove fear and makes cleaning code feel safe.&lt;/p&gt;
+&lt;p&gt;When feedback is immediate, you can &lt;code&gt;Refactor&lt;/code&gt;, &lt;code&gt;Pair&lt;/code&gt;, and apply &lt;code&gt;Simple Design&lt;/code&gt; without dread. The Agile practice of &lt;code&gt;TDD&lt;/code&gt; (Test-Driven Development) enables this button: tests become the quick signal that lets builders improve the code continuously. And with that habit, the team becomes fearlessly competent and the codebase steadily gets better over time.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Don&#39;t Let Fear Steal Improvement</title>
       <link>https://agiletechies.com/posts/dont-let-fear-steal-improvement/</link>
