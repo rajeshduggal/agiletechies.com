@@ -13,8 +13,24 @@
     <language>en</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Mon, 10 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Estimate Isn&#39;t a Promise</title>
+      <link>https://agiletechies.com/posts/an-estimate-isnt-a-promise/</link>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/an-estimate-isnt-a-promise/</guid>
+      <description>&lt;p&gt;Sometimes the most honest estimate answer is &amp;ldquo;I don&amp;rsquo;t know.&amp;rdquo; That’s useful — but incomplete. Good estimates mix what you know and what you don&amp;rsquo;t. A common technique is to use relative comparisons (e.g. The estimate to build &amp;ldquo;Change Password&amp;rdquo; is about half of building &amp;ldquo;Login&amp;rdquo;), another technique is to use probability ranges (&amp;ldquo;between 5 to 15 days, most likely 12 days&amp;rdquo;). Both of these approaches can give managers, product owners, and stakeholders some meaningful information without pretending certainty.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Teams Don&#39;t Have Heroes</title>
+      <link>https://agiletechies.com/posts/teams-dont-have-heroes/</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/teams-dont-have-heroes/</guid>
+      <description>&lt;p&gt;Within a team if a player falls, the team needs to step up and cover the gap and keep the ball moving forward.&lt;/p&gt;
+&lt;p&gt;When Bob gets sick, Jill steps in to finish Bob&amp;rsquo;s work. But this can only happen when Jill knows what Bob was doing and where to find his code.&lt;/p&gt;
+&lt;p&gt;So we need to cross-train deliberately and make sure important knowledge isn&amp;rsquo;t siloed to just one or two people. And we need to encourage each team member to make it &lt;strong&gt;their&lt;/strong&gt; responsibility to ensure other teammates can cover for them.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>QA Finds Nothing</title>
       <link>https://agiletechies.com/posts/qa-finds-nothing/</link>
