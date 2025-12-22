@@ -13,8 +13,24 @@
     <language>en</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Wed, 12 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Keep Learning, Keep Teaching</title>
+      <link>https://agiletechies.com/posts/keep-learning-keep-teaching/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/keep-learning-keep-teaching/</guid>
+      <description>&lt;p&gt;Things move fast, if you stop learning, the product and the team will fall behind.&lt;/p&gt;
+&lt;p&gt;Find ways to grow: When the company can afford look for suitable, high ROI courses, books, and conferences.  And teach what you learn. Teaching cements knowledge and spreads it across the team. Make knowledge sharing part of the workflow so new people ramp quickly and everyone improves together. The &amp;ldquo;Whole Team&amp;rdquo; practice supports this type of thinking: continuous learning and teaching are core to a resilient, adaptive team.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>When the Answer is No</title>
+      <link>https://agiletechies.com/posts/when-the-answer-is-no/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/when-the-answer-is-no/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve joined teams that have a pervasive team culture of always saying &amp;ldquo;yes&amp;rdquo; when asked about the feasibility of the schedule, even when the real answer is &amp;ldquo;no&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;As a professional, it&amp;rsquo;s our duty to say &amp;ldquo;no&amp;rdquo; when something can&amp;rsquo;t be done. We aren&amp;rsquo;t only hired to deliver, we&amp;rsquo;re also here to surface technical reality. As builders, we are the ones who know whether an approach is feasible or not, and if it can be completed within the allocated timeframe and budget; when it&amp;rsquo;s not, it&amp;rsquo;s vital that we speak up, even when under schedule pressure.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>An Estimate Isn&#39;t a Promise</title>
       <link>https://agiletechies.com/posts/an-estimate-isnt-a-promise/</link>
