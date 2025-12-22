@@ -13,8 +13,32 @@
     <language>en</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Manager and Customer Rights</title>
+      <link>https://agiletechies.com/posts/manager-and-customer-rights/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/manager-and-customer-rights/</guid>
+      <description>&lt;p&gt;(From &amp;ldquo;Extreme Programming Installed&amp;rdquo; Addison-Wesley, 2001)&lt;/p&gt;
+&lt;p&gt;1 You have the right to an overall plan and to know what can be
+accomplished when and at what cost.&lt;/p&gt;
+&lt;p&gt;2 You have the right to get the most possible value out of every
+week.&lt;/p&gt;
+&lt;p&gt;3 You have the right to see progress in a running system, proven to work
+by passing repeatable tests that you specify.&lt;/p&gt;
+&lt;p&gt;4 You have the right to change your mind, to substitute functionality,
+and to change priorities without paying exorbitant costs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Business-Builder Divide</title>
+      <link>https://agiletechies.com/posts/business-builder-divide/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/business-builder-divide/</guid>
+      <description>&lt;p&gt;Kent Beck said the goal of agile software development is to heal the divide between the business and development, and he was right!&lt;/p&gt;
+&lt;p&gt;The Bill of Rights - created by Kent, Ward Cunningham, Ron Jeffries, and others — defines complementary expectations: the customer&amp;rsquo;s rights and the builder&amp;rsquo;s rights.&lt;/p&gt;
+&lt;p&gt;When both sides know their rights and honor the other&amp;rsquo;s, collaboration replaces conflict. The customer has the right to a plan, to see progress, and to change priorities. Builders have the right to know what&amp;rsquo;s needed, to produce quality work, and to ask for help. These aren&amp;rsquo;t rules, they&amp;rsquo;re agreements that create balance and trust.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Keep Learning, Keep Teaching</title>
       <link>https://agiletechies.com/posts/keep-learning-keep-teaching/</link>
