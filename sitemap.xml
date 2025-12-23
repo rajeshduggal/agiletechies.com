@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://agiletechies.com/posts/manager-and-customer-rights/</loc>
-    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://agiletechies.com/posts/</loc>
-    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://agiletechies.com/</loc>
+    <lastmod>2025-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://agiletechies.com/posts/who-are-the-customers/</loc>
+    <lastmod>2025-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://agiletechies.com/posts/programmer-rights/</loc>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://agiletechies.com/posts/manager-and-customer-rights/</loc>
     <lastmod>2025-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://agiletechies.com/posts/business-builder-divide/</loc>
