@@ -13,8 +13,56 @@
     <language>en</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Mon, 24 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Customers Can&#39;t Demand Fixed Scope &amp; Fixed Time</title>
+      <link>https://agiletechies.com/posts/customers-manage-the-schedule/</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/customers-manage-the-schedule/</guid>
+      <description>&lt;p&gt;Customers do not have the right to insist on fixed scope on an immovable date. They do have the right to manage the schedule by changing scope. The most important right here is the right to know—timely visibility that a date is at risk so informed trade-offs can be made.&lt;/p&gt;
+&lt;p&gt;Honoring this right enables change to become a competitive advantage, not a project’s undoing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Customers Right to Cancel, and Keep Value</title>
+      <link>https://agiletechies.com/posts/customers-right-to-cancel-and-keep-value/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/customers-right-to-cancel-and-keep-value/</guid>
+      <description>&lt;p&gt;Because value is delivered in working, tested increments, customers may stop at any time and still retain a useful system that reflects the investment to date.&lt;/p&gt;
+&lt;p&gt;This is only possible if:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Every iteration ends with integrated, shippable software.&lt;/li&gt;
+&lt;li&gt;Documentation, telemetry, and operational handoffs keep the system usable without the team.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>How to Keep Change Affordable</title>
+      <link>https://agiletechies.com/posts/how-to-keep-change-affordable/</link>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/how-to-keep-change-affordable/</guid>
+      <description>&lt;p&gt;Keep change affordable:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Short iterations and small stories: Reduce the blast radius of any decision.&lt;/li&gt;
+&lt;li&gt;Continuous integration and delivery: Keep the product always releasable so swapping scope is easy.&lt;/li&gt;
+&lt;li&gt;Automated tests and refactoring: Make code safe to change; the test suite proves we didn’t break value already delivered.&lt;/li&gt;
+&lt;li&gt;Modular architecture and clear seams: Localize change instead of rewriting the world.&lt;/li&gt;
+&lt;li&gt;Feature flags and branch-by-abstraction: Enable gradual rollouts and safe reversals.&lt;/li&gt;
+&lt;li&gt;Backlog hygiene and ROI-driven ordering: Replace lower-ROI work with higher-ROI work at minimal switching cost.&lt;/li&gt;
+&lt;li&gt;WIP limits: Less inventory in flight means less rework when priorities shift.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Change Is a Right, Not a Penalty</title>
+      <link>https://agiletechies.com/posts/change-is-a-right-not-a-penalty/</link>
+      <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/change-is-a-right-not-a-penalty/</guid>
+      <description>&lt;p&gt;Software is meant to change. Customers have the right to change their minds, substitute functionality, and re-order priorities without paying exorbitant costs. Agile assumes change and designs both the product and the process to make change economically reasonable.&lt;/p&gt;
+&lt;p&gt;What &amp;ldquo;reasonable, not exorbitant&amp;rdquo; means:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Change isn’t free; it should be cheap enough to make good business sense.&lt;/li&gt;
+&lt;li&gt;Costs are kept low by technical excellence and small-batch planning, not by refusing change.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Incremental Value for the Customers</title>
       <link>https://agiletechies.com/posts/incremental-value-for-the-customers/</link>
