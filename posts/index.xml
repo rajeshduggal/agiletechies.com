@@ -13,8 +13,25 @@
     <language>en</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Fri, 28 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cutting Corners</title>
+      <link>https://agiletechies.com/posts/cutting-corners/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/cutting-corners/</guid>
+      <description>&lt;p&gt;Builders shouldn&amp;rsquo;t be put in a position where they&amp;rsquo;re forced to cut corners, rush out sloppy work, or compromise their professional standards. The business does not get to demand low quality or ask others to risk their reputation or ethics for a deadline.&lt;/p&gt;
+&lt;p&gt;If a task would force someone to do poor work, they must feel safe to raise the issue, explain the risks, and insist on a better alternate approach.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Give the Builders Knowledge</title>
+      <link>https://agiletechies.com/posts/give-the-builders-knowledge/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/give-the-builders-knowledge/</guid>
+      <description>&lt;p&gt;Builders need clarity on what to build and which things matter the most.&lt;/p&gt;
+&lt;p&gt;So we need to make sure they have simple listed priorities, and clear requirements so the team can plan and do the work. We&amp;rsquo;re not aiming for perfection. That isn&amp;rsquo;t possible. Instead we describe and explain any uncertainty up front.&lt;/p&gt;
+&lt;p&gt;While the team is working inside an iteration, priorities should stay reasonably stable so the builders can finish without constant interruptions. And outside the iteration, the priorities can change.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Customers Can&#39;t Demand Fixed Scope &amp; Fixed Time</title>
       <link>https://agiletechies.com/posts/customers-manage-the-schedule/</link>
