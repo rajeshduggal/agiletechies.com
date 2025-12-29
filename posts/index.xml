@@ -13,8 +13,34 @@
     <language>en</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Own Your Estimates</title>
+      <link>https://agiletechies.com/posts/own-your-estimates/</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/own-your-estimates/</guid>
+      <description>&lt;p&gt;We all get to make and update our own estimates.  We know the work best, so no one else should be guessing for us.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;Estimates&amp;rdquo; are educated guesses - useful, but not concrete &amp;ldquo;promises&amp;rdquo;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;They&amp;rsquo;re open to change as we learn new things.  And when we do, we can change the estimate and let the team know.&lt;/p&gt;
+&lt;p&gt;Good estimating means:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We give our best guess, honestly.&lt;/li&gt;
+&lt;li&gt;We use ranges when unsure (e.g., 3–7 days).&lt;/li&gt;
+&lt;li&gt;We update estimates as facts change.&lt;/li&gt;
+&lt;li&gt;We treat estimates as planning tools, not deadlines to blame people for.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Discussions for your team&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ask For Help</title>
+      <link>https://agiletechies.com/posts/ask-for-help/</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/ask-for-help/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Help&amp;rdquo; can be many things: asking a colleague to review some code, asking a teammate to pair while resolving a bug, asking a  manager to help remove a blocker, or asking a customer to clarify some requirements.&lt;/p&gt;
+&lt;p&gt;Asking for help enables us to move faster and make fewer mistakes.&lt;/p&gt;
+&lt;p&gt;Not only is it important for us to ask for help, it&amp;rsquo;s also important for us to respond to help requests too!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Cutting Corners</title>
       <link>https://agiletechies.com/posts/cutting-corners/</link>
