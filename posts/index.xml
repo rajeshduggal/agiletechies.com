@@ -13,8 +13,26 @@
     <language>en</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Thu, 03 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Estimates are Intentionally Imprecise</title>
+      <link>https://agiletechies.com/posts/estimates-are-intentionally-imprecise/</link>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/estimates-are-intentionally-imprecise/</guid>
+      <description>&lt;p&gt;An estimate is a guess about how long the work will take - made without actually doing the work.&lt;/p&gt;
+&lt;p&gt;The estimate needs to provide us some value, so it can&amp;rsquo;t just come out of thin air. But it also doesn&amp;rsquo;t need to be exactly right and take weeks and weeks to determine. There is a balance.&lt;/p&gt;
+&lt;p&gt;We want that guess to be cheap (spending as little time as possible to make it), so we can get on with the actual work. And because of that estimates are intentionally imprecise.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Accept Work and Own It</title>
+      <link>https://agiletechies.com/posts/accept-work-and-own-it/</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/accept-work-and-own-it/</guid>
+      <description>&lt;p&gt;As a builder you have the right to accept work, not have it forced on you.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s OK to kindly refuse it if you don&amp;rsquo;t feel it&amp;rsquo;s appropriate for you and it might better for someone else to take on.&lt;/p&gt;
+&lt;p&gt;But! When you accept a task, you also accept the responsibility that goes along with it. That means you own the quality and delivery, you keep your estimates up to date, you tell the team the status, and you ask for help when needed.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Own Your Estimates</title>
       <link>https://agiletechies.com/posts/own-your-estimates/</link>
