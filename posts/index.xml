@@ -9,12 +9,34 @@
       <url>https://agiletechies.com/images/papermod-cover.png</url>
       <link>https://agiletechies.com/images/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- 0.152.2</generator>
-    <language>en</language>
+    <generator>Hugo -- 0.153.5</generator>
+    <language>en-us</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Fri, 04 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Story Points</title>
+      <link>https://agiletechies.com/posts/story-points/</link>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/story-points/</guid>
+      <description>&lt;p&gt;Story points are a simple, relative way to size work. We don&amp;rsquo;t size purely in hours, instead we compare one story to another: is this &lt;em&gt;smaller&lt;/em&gt;, &lt;em&gt;about the same&lt;/em&gt;, or &lt;em&gt;much larger&lt;/em&gt;?&lt;/p&gt;
+&lt;p&gt;Pointing becomes more precise over time. The key is to establish a tight feedback loop. Early estimates are imprecise, and that&amp;rsquo;s OK. As we work through our iterations we continue to deliver, measure, and recalibrate our point sizing. And that quick adjust-and-learn cycle transforms vagueness into useful predictability.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Trivariate Estimates</title>
+      <link>https://agiletechies.com/posts/trivariate-estimates/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/trivariate-estimates/</guid>
+      <description>&lt;p&gt;For big tasks I use trivariate estimates - three numbers: &lt;strong&gt;best‑case&lt;/strong&gt;, &lt;strong&gt;nominal‑case&lt;/strong&gt;, and &lt;strong&gt;worst‑case&lt;/strong&gt;. Each number is a confidence estimate:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Best‑case (5%)&lt;/strong&gt;: only 5% of similar tasks finish this fast.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nominal‑case (50%)&lt;/strong&gt;: about half the tasks finish by this time.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Worst‑case (95%)&lt;/strong&gt;: 95% confidence the task finishes by this time.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For example: &amp;ldquo;I’m 5% sure we&amp;rsquo;ll finish in 1 week, 50% sure in 2 weeks, and 95% sure in 3 weeks.&amp;rdquo;
+That means out of 100 similar tasks, ~5 finish in 1 week, ~50 in 2 weeks, and ~95 in 3 weeks.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Estimates are Intentionally Imprecise</title>
       <link>https://agiletechies.com/posts/estimates-are-intentionally-imprecise/</link>
@@ -233,8 +255,8 @@ and to change priorities without paying exorbitant costs.&lt;/p&gt;</description
       <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
       <guid>https://agiletechies.com/posts/qa-finds-nothing/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Make Testing a Non‑Event&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Quality as everyone&amp;rsquo;s job. Yet, most of the established teams I&amp;rsquo;ve joined over the years have dedicated people that take some of the responsibility of QA from the others.&lt;/p&gt;
-&lt;p&gt;It sounds like a strange way to organize a team when we hear it described that way.&lt;/p&gt;
+&lt;p&gt;In our day to day lives, the quality of our efforts are our own responsibility. Yet, in most software teams there&amp;rsquo;s a dedicated group of special people to take some of that responsibility away from the others.&lt;/p&gt;
+&lt;p&gt;It sounds strange to hear it described that way.&lt;/p&gt;
 &lt;p&gt;When there is a QA phase, then it should be the norm to hear that &amp;ldquo;Everything works.&amp;rdquo; And in those rare circumstances when QA finds a fault, the builders should ask, &amp;ldquo;What in our process let this slip?&amp;rdquo; and fix that process so that next time QA will find nothing.&lt;/p&gt;</description>
     </item>
     <item>
