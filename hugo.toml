@@ -42,7 +42,7 @@ url = "tags/"
 weight = 10
 
 [outputs]
-home = [ "HTML" ]
+home = [ "HTML", "JSON" ]
 section = [ "HTML", "RSS" ]
 
 [params]
