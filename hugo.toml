@@ -53,6 +53,7 @@ env = "production"
 description = "Raj Duggal coaches teams on how to develop and deliver high-quality software with an aim towards maximizing end-user value"
 social = true
 defaultTheme = "auto"
+disableThemeToggle = true
 ShowShareButtons = true
 ShowReadingTime = false
 displayFullLangName = true
