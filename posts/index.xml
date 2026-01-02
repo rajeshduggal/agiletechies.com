@@ -13,8 +13,25 @@
     <language>en-us</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Tue, 08 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Story Point Estimation</title>
+      <link>https://agiletechies.com/posts/story-point-estimation/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/story-point-estimation/</guid>
+      <description>&lt;p&gt;At the start of a project, we haven&amp;rsquo;t set a precedent baseline of how to estimate our stories.  So at our initial estimation meetings we can pick one average story as our &lt;em&gt;Golden Story&lt;/em&gt; and give it a number (say 3). And then we compare the other stories to it: simpler might be 1, harder might be 5 or 6.&lt;/p&gt;
+&lt;p&gt;Story points measure relative &lt;em&gt;effort&lt;/em&gt;, not hours. They should be roughly linear but stay fuzzy at first. Write the point estimation onto the story. And keep the story brief. Perhaps just a title and a few short notes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Keep Stories Brief</title>
+      <link>https://agiletechies.com/posts/keep-stories-brief/</link>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/keep-stories-brief/</guid>
+      <description>&lt;p&gt;I once worked with a lead that insisted that every story card contain every detail. The cards were filled with tiny paragraphs and became impenetrable. They couldn&amp;rsquo;t be estimated, scheduled, or discarded because so much effort had been spent on each one.&lt;/p&gt;
+&lt;p&gt;Stories are &lt;em&gt;placeholders&lt;/em&gt;, not requirements. Write a short name and a few reminders, then save the real conversation for when you’re about to build the feature.&lt;/p&gt;
+&lt;p&gt;Keep stories cheap so they can be split, merged, changed, or thrown away without regret.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Story Points</title>
       <link>https://agiletechies.com/posts/story-points/</link>
