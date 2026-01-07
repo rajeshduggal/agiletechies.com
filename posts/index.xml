@@ -13,8 +13,25 @@
     <language>en-us</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yesterday&#39;s Weather</title>
+      <link>https://agiletechies.com/posts/yesterdays-weather/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/yesterdays-weather/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Plan from What You Learned&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We learn how much a team can do by looking at the last iteration - that&amp;rsquo;s &amp;ldquo;yesterday’s weather.&amp;rdquo; If the team finished 18 points in the last iteration, we plan for 18 points in the next iteration.&lt;/p&gt;
+&lt;p&gt;And at the midpoint we check the team&amp;rsquo;s progress, expecting to learn that half of the work, 9 points, has been done. But, if  we find that more got done, 12 points (wonderful!), then the stakeholders might decide to move more work into the current sprint since there might be capacity for it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hurried Catch Up Work Brings Pressure and Bugs</title>
+      <link>https://agiletechies.com/posts/hurried-catch-up-work-brings-pressure-and-bugs/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/hurried-catch-up-work-brings-pressure-and-bugs/</guid>
+      <description>&lt;p&gt;At the midpoint we check our team&amp;rsquo;s progress. If the team is behind, the worst choice is to tell them to &amp;ldquo;catch up.&amp;rdquo; More pressure makes builders rush, skip tests, and ignore edge cases. That leads to bugs, technical debt, and burnout.&lt;/p&gt;
+&lt;p&gt;A better choice is to re‑scope. Ask: if the team keeps the same quality and pace, what can be finished this week? Remove lower‑value stories and set a new honest goal.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Four Quadrant Game</title>
       <link>https://agiletechies.com/posts/four-quadrant-game/</link>
