@@ -13,8 +13,29 @@
     <language>en-us</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>End by Value, Not Completion</title>
+      <link>https://agiletechies.com/posts/end-by-value-not-completion/</link>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/end-by-value-not-completion/</guid>
+      <description>&lt;p&gt;Your project shouldn&amp;rsquo;t finished when every ticket is implemented.
+Instead have in mind to finish it when there are &lt;strong&gt;no more stories worth doing&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;There will come a time when the stakeholders scan the backlog and find that none of the remaining stories are worth doing.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s not uncommon for an early story&amp;rsquo;s priority to evaporate over time, as higher‑value work is surfaced. That&amp;rsquo;s just fine.&lt;/p&gt;
+&lt;p&gt;The team should recognize that when the flow of value has stopped, we can gracefully end the project, instead of chasing backlog completion for its own sake.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The ROI Pump</title>
+      <link>https://agiletechies.com/posts/the-roi-pump/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/the-roi-pump/</guid>
+      <description>&lt;p&gt;We can look at each iteration as a pump. As each iteration completes, we add the completed velocity to the chart so that everyone can see how fast we&amp;rsquo;re going.&lt;/p&gt;
+&lt;p&gt;Iteration after iteration the pump draws &lt;em&gt;ROI&lt;/em&gt; out of the story deck.
+Continuous exploration pumps &lt;em&gt;ROI&lt;/em&gt; back in by discovering new, valuable stories.&lt;/p&gt;
+&lt;p&gt;As long as incoming ROI outpaces outgoing ROI, the project keeps flowing. When exploration slows and new features dry up, the deck&amp;rsquo;s ROI is exhausted.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Yesterday&#39;s Weather</title>
       <link>https://agiletechies.com/posts/yesterdays-weather/</link>
