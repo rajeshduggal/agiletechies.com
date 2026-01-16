@@ -13,8 +13,48 @@
     <language>en-us</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Fri, 18 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The INVEST Acronym : Negotiable</title>
+      <link>https://agiletechies.com/posts/the-invest-acronym-negotiable/</link>
+      <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/the-invest-acronym-negotiable/</guid>
+      <description>&lt;p&gt;User stories are reminders of features, not full specifications. Avoid recording every detail up front because details change. We&amp;rsquo;ll capture the details later, when they matter.&lt;/p&gt;
+&lt;p&gt;When a story reads like a contract, it stops being a conversation.
+When it reads like a reminder, it invites one.&lt;/p&gt;
+&lt;p&gt;Follow the acronym &amp;ldquo;INVEST&amp;rdquo; as a quick check.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I.NDEPENDENT&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;N.EGOTIABLE&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;V.ALUABLE&lt;/li&gt;
+&lt;li&gt;E.STIMATABLE&lt;/li&gt;
+&lt;li&gt;S.MALL&lt;/li&gt;
+&lt;li&gt;T.ESTABLE&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;NEGOTIABLE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Write stories as negotiable reminders, not fixed contracts.  We leave the details out and create room for conversation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The INVEST Acronym : Independent</title>
+      <link>https://agiletechies.com/posts/the-invest-acronym-independent/</link>
+      <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/the-invest-acronym-independent/</guid>
+      <description>&lt;p&gt;User stories are reminders of features, not full specifications. Avoid recording every detail up front because details change. We&amp;rsquo;ll capture the details later, when they matter.&lt;/p&gt;
+&lt;p&gt;When a story reads like a contract, it stops being a conversation.
+When it reads like a reminder, it invites one.&lt;/p&gt;
+&lt;p&gt;Follow the acronym &amp;ldquo;INVEST&amp;rdquo; as a quick check.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;I.NDEPENDENT&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;N.EGOTIABLE&lt;/li&gt;
+&lt;li&gt;V.ALUABLE&lt;/li&gt;
+&lt;li&gt;E.STIMATABLE&lt;/li&gt;
+&lt;li&gt;S.MALL&lt;/li&gt;
+&lt;li&gt;T.ESTABLE&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;INDEPENDENT&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;User stories should be independent enough to let the team implement by business value, not by technical order. Independence means a story doesn&amp;rsquo;t force a strict implementation sequence. &amp;ldquo;Login&amp;rdquo; shouldn&amp;rsquo;t have to come before &amp;ldquo;Logout&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>End by Value, Not Completion</title>
       <link>https://agiletechies.com/posts/end-by-value-not-completion/</link>
