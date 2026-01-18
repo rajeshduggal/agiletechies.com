@@ -13,8 +13,48 @@
     <language>en-us</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The INVEST Acronym : Testable</title>
+      <link>https://agiletechies.com/posts/the-invest-acronym-testable/</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/the-invest-acronym-testable/</guid>
+      <description>&lt;p&gt;User stories are reminders of features, not full specifications. Avoid recording every detail up front because details change. We&amp;rsquo;ll capture the details later, when they matter.&lt;/p&gt;
+&lt;p&gt;When a story reads like a contract, it stops being a conversation.
+When it reads like a reminder, it invites one.&lt;/p&gt;
+&lt;p&gt;Follow the acronym &amp;ldquo;INVEST&amp;rdquo; as a quick check.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I.NDEPENDENT&lt;/li&gt;
+&lt;li&gt;N.EGOTIABLE&lt;/li&gt;
+&lt;li&gt;V.ALUABLE&lt;/li&gt;
+&lt;li&gt;E.STIMATABLE&lt;/li&gt;
+&lt;li&gt;S.MALL&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;T.ESTABLE&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;TESTABLE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Each story needs to be able to have one or more tests that can prove that the story is done.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The INVEST Acronym : Small</title>
+      <link>https://agiletechies.com/posts/the-invest-acronym-small/</link>
+      <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/the-invest-acronym-small/</guid>
+      <description>&lt;p&gt;User stories are reminders of features, not full specifications. Avoid recording every detail up front because details change. We&amp;rsquo;ll capture the details later, when they matter.&lt;/p&gt;
+&lt;p&gt;When a story reads like a contract, it stops being a conversation.
+When it reads like a reminder, it invites one.&lt;/p&gt;
+&lt;p&gt;Follow the acronym &amp;ldquo;INVEST&amp;rdquo; as a quick check.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I.NDEPENDENT&lt;/li&gt;
+&lt;li&gt;N.EGOTIABLE&lt;/li&gt;
+&lt;li&gt;V.ALUABLE&lt;/li&gt;
+&lt;li&gt;E.STIMATABLE&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;S.MALL&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;T.ESTABLE&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;SMALL&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A story should be doable by one or two builders within a single iteration so no single story can dominate the team.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The INVEST Acronym : Estimatable</title>
       <link>https://agiletechies.com/posts/the-invest-acronym-estimatable/</link>
