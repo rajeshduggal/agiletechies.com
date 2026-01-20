@@ -13,8 +13,25 @@
     <language>en-us</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Mon, 28 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Merging and Splitting Stories</title>
+      <link>https://agiletechies.com/posts/merging-and-splitting-stories/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/merging-and-splitting-stories/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s very important to store the stories in a way that they can very easily be merged and split.  It&amp;rsquo;s common for teams to record too much information in their stories. To the point that it becomes very tedious and overly complicated to attempt to merge or split a story.  And so it&amp;rsquo;s rarely suggested by the team, even though it&amp;rsquo;s the right thing to do.&lt;/p&gt;
+&lt;p&gt;Merging is pretty straightforward to do.  And splitting stories is more of a craft, because each story still needs to aim towards following &lt;em&gt;INVEST&lt;/em&gt;. (Independent, Negotiable, Valuable, Estimatable, Small, and Testable.)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>&#34;Flying Fingers&#34; Estimations</title>
+      <link>https://agiletechies.com/posts/flying-fingers-estimations/</link>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/flying-fingers-estimations/</guid>
+      <description>&lt;p&gt;Sometimes we just need a quick estimation on something, without asking everyone to use their laptops to login to a website, or passing out estimation cards to everyone.  For this, we can use the simple &amp;ldquo;flying fingers&amp;rdquo; technique.&lt;/p&gt;
+&lt;p&gt;We read the story, discuss it briefly, then each builder hides one hand with their estimation done in &amp;ldquo;number of fingers&amp;rdquo; to represent the size.&lt;/p&gt;
+&lt;p&gt;Someone counts down 3, 2, 1, &amp;ldquo;Go&amp;rdquo;, and everyone reveals at once.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The INVEST Acronym : Testable</title>
       <link>https://agiletechies.com/posts/the-invest-acronym-testable/</link>
