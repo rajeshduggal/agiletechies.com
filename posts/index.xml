@@ -13,8 +13,18 @@
     <language>en-us</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Wed, 30 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spikes</title>
+      <link>https://agiletechies.com/posts/spikes/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/spikes/</guid>
+      <description>&lt;p&gt;Sometimes we can&amp;rsquo;t move forward with stories because it&amp;rsquo;s unclear whether our proposed approach will work.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s time for a discovery spike!&lt;/p&gt;
+&lt;p&gt;When we do a spike, we&amp;rsquo;re not aiming to have usable code or artifacts as a result of it.  We&amp;rsquo;re merely doing the least amount of research and discover to be able to decide a general course of action.&lt;/p&gt;
+&lt;p&gt;We might install some software, or write some code, to prove to us that it&amp;rsquo;s going to work. And then we might throw that code away. And when we work on the actual story, we product production quality code and artifacts.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Merging and Splitting Stories</title>
       <link>https://agiletechies.com/posts/merging-and-splitting-stories/</link>
