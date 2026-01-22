@@ -13,8 +13,31 @@
     <language>en-us</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Builders Pick Stories</title>
+      <link>https://agiletechies.com/posts/builders-pick-stories/</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/builders-pick-stories/</guid>
+      <description>&lt;p&gt;After planning, we let the builders pick the stories they will own.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s important to avoid having the managers and leads assign the stories to individuals. Instead we let the team negotiate ownership amongst themselves and encourage pairing, mentoring, and sensible scoping decisions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Discussions for your team&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Are assignments discussed and negotiated, or imposed on individuals?&lt;/li&gt;
+&lt;li&gt;Do we encourage pairing on stories, or do individuals take on stories alone?&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Complete Stories Rather Than Tasks</title>
+      <link>https://agiletechies.com/posts/complete-stories-rather-than-tasks/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/complete-stories-rather-than-tasks/</guid>
+      <description>&lt;p&gt;Focus on &lt;em&gt;stories&lt;/em&gt;, not the tasks.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s far better to finish 80% of your stories than to make every story 80% complete.&lt;/p&gt;
+&lt;p&gt;Completed stories give usable feedback, expose assumptions, and reduce risk.&lt;/p&gt;
+&lt;p&gt;Value comes from done stories, not a subset of tasks.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Spikes</title>
       <link>https://agiletechies.com/posts/spikes/</link>

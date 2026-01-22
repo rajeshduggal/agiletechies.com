@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://agiletechies.com/posts/</loc>
-    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <loc>https://agiletechies.com/posts/builders-pick-stories/</loc>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://agiletechies.com/posts/spikes/</loc>
-    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <loc>https://agiletechies.com/posts/</loc>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://agiletechies.com/</loc>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://agiletechies.com/posts/complete-stories-rather-than-tasks/</loc>
+    <lastmod>2025-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://agiletechies.com/posts/spikes/</loc>
     <lastmod>2025-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://agiletechies.com/posts/merging-and-splitting-stories/</loc>
