@@ -13,8 +13,17 @@
     <language>en-us</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Mon, 05 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acceptance Tests</title>
+      <link>https://agiletechies.com/posts/acceptance-tests/</link>
+      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/acceptance-tests/</guid>
+      <description>&lt;p&gt;We write acceptance tests right after the IPM (Iteration Planning Meeting). Each story should have one or more acceptance tests, and we use those tests to decide when a story is done.&lt;/p&gt;
+&lt;p&gt;Writing acceptance tests early helps us think through the story. It often brings up new questions, highlights edge cases, and uncovers alternate flows or use cases we may not have considered during planning.&lt;/p&gt;
+&lt;p&gt;The team can choose to start with acceptance tests for the stories we plan to work on first. Acceptance tests shouldn’t take long to write, and it’s normal to have them all in place by the middle of the iteration.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Builders Pick Stories</title>
       <link>https://agiletechies.com/posts/builders-pick-stories/</link>
