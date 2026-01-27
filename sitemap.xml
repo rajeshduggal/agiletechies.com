@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://agiletechies.com/posts/acceptance-tests/</loc>
-    <lastmod>2025-05-06T00:00:00+00:00</lastmod>
+    <loc>https://agiletechies.com/posts/choose-one-done-over-two-almost-dones/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://agiletechies.com/posts/</loc>
-    <lastmod>2025-05-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://agiletechies.com/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://agiletechies.com/posts/acceptance-tests/</loc>
     <lastmod>2025-05-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://agiletechies.com/posts/builders-pick-stories/</loc>

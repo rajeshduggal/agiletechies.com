@@ -13,8 +13,16 @@
     <language>en-us</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Tue, 06 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Choose One &#34;Done&#34; Story, Over Two &#34;Almost Dones&#34;</title>
+      <link>https://agiletechies.com/posts/choose-one-done-over-two-almost-dones/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/choose-one-done-over-two-almost-dones/</guid>
+      <description>&lt;p&gt;As we approach the end of an iteration we need to decide which stories we&amp;rsquo;ll see to completion and which we&amp;rsquo;ll postpone or abandon, so we can reallocate our team&amp;rsquo;s efforts to &lt;strong&gt;finalize&lt;/strong&gt; more work.&lt;/p&gt;
+&lt;p&gt;We proactively make decisions to put-aside some &amp;ldquo;almost-done&amp;rdquo; stories so we can let others reach &lt;em&gt;done&lt;/em&gt; status. Two half-done stories aren&amp;rsquo;t progress. We are explicit about which work we stop and why, and then refocus the team&amp;rsquo;s attention on finishing the chosen set of stories. This keeps momentum, reduces waste, and preserves quality.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Acceptance Tests</title>
       <link>https://agiletechies.com/posts/acceptance-tests/</link>
