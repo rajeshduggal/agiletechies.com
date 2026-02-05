@@ -13,8 +13,27 @@
     <language>en-us</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Thu, 08 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Velocity and Burndown Charts</title>
+      <link>https://agiletechies.com/posts/velocity-and-burndown-charts/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/velocity-and-burndown-charts/</guid>
+      <description>&lt;p&gt;We update the burn‑down and velocity charts only with points for stories that have passed their acceptance tests.&lt;/p&gt;
+&lt;p&gt;Recording only &lt;em&gt;done&lt;/em&gt; stories prevents optimistic noise and makes the charts honest signals.&lt;/p&gt;
+&lt;p&gt;After several iterations both charts start to reveal a slope. And the burn‑down slope can help to predict the date for the next major milestone.&lt;/p&gt;
+&lt;p&gt;The velocity slope helps to show how effective and consistent the team is running (early iterations will be noisy; but expect stabilization after a few sprints).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Stakeholders Drive the Demos</title>
+      <link>https://agiletechies.com/posts/stakeholders-drive-the-demos/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/stakeholders-drive-the-demos/</guid>
+      <description>&lt;p&gt;Stakeholders operate the system during the demo. When stakeholders click the buttons and run the flows themselves, the team sees real reactions and honest feedback.&lt;/p&gt;
+&lt;p&gt;Stakeholder-driven demos remove the temptation that builder team might hide flaky features, and the team might discover gaps in the acceptance criteria, or might surface usability issues.&lt;/p&gt;
+&lt;p&gt;This hands-on approach builds trust, teaches stakeholders the system, and gives the team clearer, actionable data to fix what matters.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>90% Done</title>
       <link>https://agiletechies.com/posts/90-percent-done/</link>
