@@ -13,8 +13,17 @@
     <language>en-us</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Mon, 12 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Velocity Inflation</title>
+      <link>https://agiletechies.com/posts/velocity-inflation/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/velocity-inflation/</guid>
+      <description>&lt;p&gt;A rising &lt;em&gt;velocity&lt;/em&gt; line doesn&amp;rsquo;t always mean the team is actually faster. When managers push for speed, builders will often unconsciously &lt;em&gt;de-value&lt;/em&gt; points to make the numbers look better.
+Points become a currency, and inflation follows. That upward slope can be pressure, not progress. Velocity is a &lt;strong&gt;measurement&lt;/strong&gt;, not an &lt;strong&gt;objective&lt;/strong&gt;. Don&amp;rsquo;t force the thing you&amp;rsquo;re measuring.&lt;/p&gt;
+&lt;p&gt;We estimate work during the planning meeting so the stakeholders can choose stories and plan for the next iteration. And that estimate is a &lt;strong&gt;forecast&lt;/strong&gt;, not a promise.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Velocity and Burndown Charts</title>
       <link>https://agiletechies.com/posts/velocity-and-burndown-charts/</link>
