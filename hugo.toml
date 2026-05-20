@@ -1,5 +1,4 @@
 baseURL = 'https://agiletechies.com/'
-languageCode = 'en-us'
 title = 'The Agile Techies Daily List'
 enableInlineShortcodes = true
 enableRobotsTXT = true
@@ -20,7 +19,8 @@ disableXML = true
 pagerSize = 5
 
 [languages.en]
-languageName = "English"
+locale = 'en-US'
+label = "English"
 weight = 1
 
   [languages.en.taxonomies]
@@ -42,6 +42,8 @@ url = "tags/"
 weight = 10
 
 [outputs]
+# Don't put "RSS" in here, because that will include a href for /index.xml, and we want /posts/index.xml instead
+# So we hard code it in head.html
 home = [ "HTML", "JSON" ]
 section = [ "HTML", "RSS" ]
 
