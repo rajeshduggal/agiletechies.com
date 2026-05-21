@@ -13,8 +13,15 @@
     <language>en-US</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Wed, 14 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Story Points</title>
+      <link>https://agiletechies.com/tags/story-points/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/tags/story-points/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Velocity</title>
       <link>https://agiletechies.com/tags/velocity/</link>
@@ -41,13 +48,6 @@
       <link>https://agiletechies.com/tags/estimations/</link>
       <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
       <guid>https://agiletechies.com/tags/estimations/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Story Points</title>
-      <link>https://agiletechies.com/tags/story-points/</link>
-      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
-      <guid>https://agiletechies.com/tags/story-points/</guid>
       <description></description>
     </item>
     <item>
