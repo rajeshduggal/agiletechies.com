@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Burndown Charts on The Agile Techies Daily List</title>
+    <link>https://agiletechies.com/tags/burndown-charts/</link>
+    <description>Recent content in Burndown Charts on The Agile Techies Daily List</description>
+    <image>
+      <title>The Agile Techies Daily List</title>
+      <url>https://agiletechies.com/images/papermod-cover.png</url>
+      <link>https://agiletechies.com/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
+    <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
+    <lastBuildDate>Mon, 12 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://agiletechies.com/tags/burndown-charts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Velocity and Burndown Charts</title>
+      <link>https://agiletechies.com/posts/velocity-and-burndown-charts/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/velocity-and-burndown-charts/</guid>
+      <description>&lt;p&gt;We update the burn‑down and velocity charts only with points for stories that have passed their acceptance tests.&lt;/p&gt;
+&lt;p&gt;Recording only &lt;em&gt;done&lt;/em&gt; stories prevents optimistic noise and makes the charts honest signals.&lt;/p&gt;
+&lt;p&gt;After several iterations both charts start to reveal a slope. And the burn‑down slope can help to predict the date for the next major milestone.&lt;/p&gt;
+&lt;p&gt;The velocity slope helps to show how effective and consistent the team is running (early iterations will be noisy; but expect stabilization after a few sprints).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

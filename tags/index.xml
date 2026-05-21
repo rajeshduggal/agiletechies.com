@@ -10,23 +10,44 @@
       <link>https://agiletechies.com/images/papermod-cover.png</link>
     </image>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en-US</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Thu, 06 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Velocity</title>
+      <link>https://agiletechies.com/tags/velocity/</link>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/tags/velocity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Burndown Charts</title>
+      <link>https://agiletechies.com/tags/burndown-charts/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/tags/burndown-charts/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Stories</title>
       <link>https://agiletechies.com/tags/stories/</link>
-      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
       <guid>https://agiletechies.com/tags/stories/</guid>
       <description></description>
     </item>
     <item>
-      <title>Velocity</title>
-      <link>https://agiletechies.com/tags/velocity/</link>
-      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
-      <guid>https://agiletechies.com/tags/velocity/</guid>
+      <title>Estimations</title>
+      <link>https://agiletechies.com/tags/estimations/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/tags/estimations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Story Points</title>
+      <link>https://agiletechies.com/tags/story-points/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/tags/story-points/</guid>
       <description></description>
     </item>
     <item>
@@ -55,6 +76,27 @@
       <link>https://agiletechies.com/tags/uncle-bob/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
       <guid>https://agiletechies.com/tags/uncle-bob/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Code</title>
+      <link>https://agiletechies.com/tags/code/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/tags/code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>https://agiletechies.com/tags/markdown/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Syntax</title>
+      <link>https://agiletechies.com/tags/syntax/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/tags/syntax/</guid>
       <description></description>
     </item>
   </channel>
