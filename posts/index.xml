@@ -13,7 +13,7 @@
     <language>en-US</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Code Syntax Guide</title>
@@ -21,6 +21,25 @@
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
       <guid>https://agiletechies.com/posts/code_syntax/</guid>
       <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>Break the Release-Deployment Chain</title>
+      <link>https://agiletechies.com/posts/break-the-release-deployment-chain/</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/break-the-release-deployment-chain/</guid>
+      <description>&lt;p&gt;The key to achieving Continuous Delivery is to focus on shortening every cycle. Continuous Delivery will follow as a natural byproduct.&lt;/p&gt;
+&lt;p&gt;First we start by breaking the coupling between release and deployment.&lt;/p&gt;
+&lt;p&gt;A release means the software is technically ready to be deployed; and the actual decision to deploy should be a business decision, not an engineering bottleneck.&lt;/p&gt;
+&lt;p&gt;Shrink your release cadence stepwise - three months → monthly → weekly - aiming asymptotically toward zero.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ship Small, Ship Often: Making Continuous Delivery Real</title>
+      <link>https://agiletechies.com/posts/continuous-delivery/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/continuous-delivery/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Continuous Delivery&amp;rdquo; has become a catchy term over the years. The real way to make this real for your team is to focus on shortening all of the cycles before it. And then naturally, the delivery will become continuous too.&lt;/p&gt;
+&lt;p&gt;Years ago &amp;ldquo;Small Releases&amp;rdquo; meant monthly drops; then weekly, and today our goal is Continuous Delivery: releasing to production after each stable change.&lt;/p&gt;
+&lt;p&gt;Continuous delivery isn&amp;rsquo;t only about pushing more code more often. It&amp;rsquo;s about discipline and striving for clearer scope, faster feedback, and shrinking the design, review, test, and deployment cycles.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Keep Estimates Consistent with a Golden Stories</title>
