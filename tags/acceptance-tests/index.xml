@@ -13,8 +13,26 @@
     <language>en-US</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Tue, 20 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/tags/acceptance-tests/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acceptance Tests Feed Into the Definition Of Done</title>
+      <link>https://agiletechies.com/posts/acceptance-tests-feed-into-the-definition-of-done/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/acceptance-tests-feed-into-the-definition-of-done/</guid>
+      <description>&lt;p&gt;Each user story should have at least one acceptance test. The tests are drafted by these business (with support from the BAs and QA) they describe the behavior they expect to in the application when the story is done. The builders work on automating these tests where practical.&lt;/p&gt;
+&lt;p&gt;As the builders and the business converge and gain clarity on what they&amp;rsquo;re agreeing to deliver with a story they start to build and automate the acceptance tests. These tests are integrated into the continuous build.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Who Writes the Tests?</title>
+      <link>https://agiletechies.com/posts/who-writes-the-tests/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/who-writes-the-tests/</guid>
+      <description>&lt;p&gt;A specification can be described as a test.&lt;/p&gt;
+&lt;p&gt;For example: when a user enters a valid username and password and clicks &amp;ldquo;login,&amp;rdquo; the system shows the &amp;ldquo;Welcome&amp;rdquo; page. That sentence is a requirement and can also act as a test.&lt;/p&gt;
+&lt;p&gt;Acceptance tests should be automated whenever practical. The business team owns the requirements; and the builders make them runnable.&lt;/p&gt;
+&lt;p&gt;The confusion comes when only one side works on the tests. In practice the team needs to write them together.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Acceptance Tests as Business Contracts</title>
       <link>https://agiletechies.com/posts/acceptance-tests-as-business-contracts/</link>
