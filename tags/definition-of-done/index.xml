@@ -20,8 +20,8 @@
       <link>https://agiletechies.com/posts/acceptance-tests-feed-into-the-definition-of-done/</link>
       <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
       <guid>https://agiletechies.com/posts/acceptance-tests-feed-into-the-definition-of-done/</guid>
-      <description>&lt;p&gt;Each user story should have at least one acceptance test. The tests are drafted by these business (with support from the BAs and QA) they describe the behavior they expect to in the application when the story is done. The builders work on automating these tests where practical.&lt;/p&gt;
-&lt;p&gt;As the builders and the business converge and gain clarity on what they&amp;rsquo;re agreeing to deliver with a story they start to build and automate the acceptance tests. These tests are integrated into the continuous build.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Each user story should have at least one acceptance test. The tests are drafted by the business (with support from the BAs and QA) they describe the behavior they expect to see in the application when the story is complete. When it&amp;rsquo;s practical the builders aim to automate the execution of these tests.&lt;/p&gt;
+&lt;p&gt;As the builders and the business&amp;rsquo; understanding of the requirements converge and they come to an agreement on what&amp;rsquo;s to be delivered by the story, they start to build and automate the acceptance tests to prove that it&amp;rsquo;s the ask has been fulfilled.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
