@@ -13,8 +13,17 @@
     <language>en-US</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Fri, 23 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/tags/quality-assurance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Defect Economy</title>
+      <link>https://agiletechies.com/posts/the-defect-economy/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/the-defect-economy/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve seen teams rewarded for finding as many defects as possible.&lt;/p&gt;
+&lt;p&gt;Better that the teams finds them, rather than end-user, right?  Over time the culture and metrics rate a higher defect count as proof of the QA is doing well.&lt;/p&gt;
+&lt;p&gt;Defects become a currency that some team members benefit from. The builders learn that if a high defect count isn&amp;rsquo;t a problem, then they can meet their delivery deadlines simply by announcing imperfect work as completed.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Bring QA to the Front</title>
       <link>https://agiletechies.com/posts/bring-qa-to-the-front/</link>
