@@ -13,7 +13,7 @@
     <language>en-US</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Mon, 26 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Code Syntax Guide</title>
@@ -23,13 +23,22 @@
       <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
     </item>
     <item>
+      <title>Builders Run the Tests</title>
+      <link>https://agiletechies.com/posts/builders-run-the-tests/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/builders-run-the-tests/</guid>
+      <description>&lt;p&gt;The acceptance tests are written by the business, and run by the builders.&lt;/p&gt;
+&lt;p&gt;The business defines what success looks like, but it&amp;rsquo;s not their job to verify that the system delivers it; that responsibility belongs to the people who built it.&lt;/p&gt;
+&lt;p&gt;Builders run acceptance tests, fix failures, and ensure the application delivers what has been asked for; before a story is considered done. Running those tests continuously is the only reliable way the team knows the story is complete.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The Defect Economy</title>
       <link>https://agiletechies.com/posts/the-defect-economy/</link>
       <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
       <guid>https://agiletechies.com/posts/the-defect-economy/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve seen teams rewarded for finding as many defects as possible.&lt;/p&gt;
-&lt;p&gt;Better that the teams finds them, rather than end-user, right?  Over time the culture and metrics rate a higher defect count as proof of the QA is doing well.&lt;/p&gt;
-&lt;p&gt;Defects become a currency that some team members benefit from. The builders learn that if a high defect count isn&amp;rsquo;t a problem, then they can meet their delivery deadlines simply by announcing imperfect work as completed.&lt;/p&gt;</description>
+&lt;p&gt;Better that the teams finds them, rather than end-user, right?&lt;/p&gt;
+&lt;p&gt;Over time the culture and metrics rate a higher defect count as proof of the QA is doing well.  Defects become a currency that some team members benefit from. The builders learn that if a high defect count isn&amp;rsquo;t a problem, then they can meet their delivery deadlines simply by announcing the work as complete before the expected due date (while quietly knowing that it&amp;rsquo;s imperfect)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bring QA to the Front</title>
