@@ -13,7 +13,7 @@
     <language>en-US</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Tue, 27 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Code Syntax Guide</title>
@@ -21,6 +21,15 @@
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
       <guid>https://agiletechies.com/posts/code_syntax/</guid>
       <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>The Whole Team in One Space</title>
+      <link>https://agiletechies.com/posts/the-whole-team-in-one-space/</link>
+      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/the-whole-team-in-one-space/</guid>
+      <description>&lt;p&gt;Years ago it was the norm for teams to work together in the same office. In close proximity.  These days, teams work remotely, or partially remote.&lt;/p&gt;
+&lt;p&gt;The idea of &amp;ldquo;On‑Site Customer&amp;rdquo; was simple: put the right product owner or customer or end-user in proximity of the builders. Close enough so they could quickly shoot questions/answers and get clarity on things, ad-hoc.&lt;/p&gt;
+&lt;p&gt;This resulted in questions getting answered in seconds, and potential misunderstandings caught early.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Builders Run the Tests</title>
