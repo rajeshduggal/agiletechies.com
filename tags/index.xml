@@ -13,8 +13,15 @@
     <language>en-US</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Wed, 28 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Domain Driven Design</title>
+      <link>https://agiletechies.com/tags/domain-driven-design/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/tags/domain-driven-design/</guid>
+      <description></description>
+    </item>
     <item>
       <title>On-Site Customer</title>
       <link>https://agiletechies.com/tags/on-site-customer/</link>

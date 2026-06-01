@@ -13,8 +13,22 @@
     <language>en-US</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Wed, 28 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Speak the Same Ubiquitous Language</title>
+      <link>https://agiletechies.com/posts/speak-the-same-ubiquitous-language/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/speak-the-same-ubiquitous-language/</guid>
+      <description>&lt;p&gt;Eric Evans&amp;rsquo; idea of Ubiquitous Language is simple but powerful: the team needs a shared model and vocabulary for the problem domain. That model should be understandable to everyone: the builders, managers, operations, and the customers. So           that the conversations, designs, and tests all line up.&lt;/p&gt;
+&lt;p&gt;Maintain a living &amp;ldquo;data dictionary&amp;rdquo; with concise terms that describe the data and the processes that change it.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Discussions for your team&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Do we currently have names for the core domain concepts that make sense to everyone?&lt;/li&gt;
+&lt;li&gt;Where can we capture and store terms in a shared glossary?&lt;/li&gt;
+&lt;li&gt;Do we use this language in our acceptance tests?&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>The Whole Team in One Space</title>
       <link>https://agiletechies.com/posts/the-whole-team-in-one-space/</link>
