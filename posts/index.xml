@@ -13,8 +13,18 @@
     <language>en-US</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Collective Ownership</title>
+      <link>https://agiletechies.com/posts/collective-ownership/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/collective-ownership/</guid>
+      <description>&lt;p&gt;The code and artifacts belongs to the team, not any individual.&lt;/p&gt;
+&lt;p&gt;Collective ownership means any builder can check out and improve any module at anytime.&lt;/p&gt;
+&lt;p&gt;The key is to allow and encourage people to specialize, while at the same time balance that with having generalized knowledge. Team members should split their work between their specialty and other areas so they can help across the codebase.&lt;/p&gt;
+&lt;p&gt;When ownership is shared, knowledge spreads, and the team can make better decisions together.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Overtime Isn&#39;t Dedication</title>
       <link>https://agiletechies.com/posts/overtime-isnt-dedication/</link>
