@@ -13,8 +13,17 @@
     <language>en-US</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Wed, 04 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/tags/continuous-integration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Broken Build is a &#34;Stop the Presses&#34; Event</title>
+      <link>https://agiletechies.com/posts/stop-the-presses/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/stop-the-presses/</guid>
+      <description>&lt;p&gt;A breaking continuous build system is a Stop-the-Presses event. We pause our work and gather around to fix the failing build together.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve frequently seen teams silence the alarms by turning on the &amp;ldquo;ignore&amp;rdquo; flag on the failing tests, or deleting the tests all together. Just to stop the &amp;ldquo;nuisance&amp;rdquo; notification emails.&lt;/p&gt;
+&lt;p&gt;But that only hides problems, and can lead to broken software being deployed. Instead, it&amp;rsquo;s important for the team to be encouraged and given the ability to prioritize fixing the tests, rather than being pressured to quickly meet some other completion deadline.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Don&#39;t Break the Build</title>
       <link>https://agiletechies.com/posts/dont-break-the-build/</link>
