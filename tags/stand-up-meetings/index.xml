@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Stand Up Meetings on The Agile Techies Daily List</title>
+    <link>https://agiletechies.com/tags/stand-up-meetings/</link>
+    <description>Recent content in Stand Up Meetings on The Agile Techies Daily List</description>
+    <image>
+      <title>The Agile Techies Daily List</title>
+      <url>https://agiletechies.com/images/papermod-cover.png</url>
+      <link>https://agiletechies.com/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
+    <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
+    <lastBuildDate>Fri, 06 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://agiletechies.com/tags/stand-up-meetings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stand Up Meetings</title>
+      <link>https://agiletechies.com/posts/standup-meetings/</link>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/standup-meetings/</guid>
+      <description>&lt;p&gt;The standup meeting is a tool, not a ritual.
+It&amp;rsquo;s optional and doesn&amp;rsquo;t need be scheduled every day. Do what makes sense for your team.&lt;/p&gt;
+&lt;p&gt;Keep it timeboxed. 10 minutes should be enough. Even for large teams.&lt;/p&gt;
+&lt;p&gt;Traditionally, the format has been to use a simple formula:
+Each builder answers three questions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;What did I do since the last meeting?&lt;/li&gt;
+&lt;li&gt;What will I do until the next meeting?&lt;/li&gt;
+&lt;li&gt;What is in my way?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;No discussion, no posturing, no deep explanations.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
