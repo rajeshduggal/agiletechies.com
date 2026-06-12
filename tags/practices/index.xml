@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Practices on The Agile Techies Daily List</title>
+    <link>https://agiletechies.com/tags/practices/</link>
+    <description>Recent content in Practices on The Agile Techies Daily List</description>
+    <image>
+      <title>The Agile Techies Daily List</title>
+      <url>https://agiletechies.com/images/papermod-cover.png</url>
+      <link>https://agiletechies.com/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
+    <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
+    <lastBuildDate>Mon, 09 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://agiletechies.com/tags/practices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Core Habits</title>
+      <link>https://agiletechies.com/posts/core-habits/</link>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/core-habits/</guid>
+      <description>&lt;p&gt;The agile software development approach includes a core set of principles, practices, and disciplines that help teams build software projects. It offers a shared language and clear expectations for how people behave toward each other, the project,  and the deliverable.&lt;/p&gt;
+&lt;p&gt;Some of the practices seem odd at first, but they&amp;rsquo;re the backbone of success. Over the years some of the practices have become common place and others have been left by the wayside. I&amp;rsquo;ve seen teams shrink their focus and efforts on TDD, Refactoring, Simple Design, or even Pair Programming. And so resulting team becomes a weak shell of its true potential.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
