@@ -13,8 +13,18 @@
     <language>en-US</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Mon, 09 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Double-Entry Bookkeeping</title>
+      <link>https://agiletechies.com/posts/double-entry-bookkeeping/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/double-entry-bookkeeping/</guid>
+      <description>&lt;p&gt;You may have heard the comparisons of software building with accounting. Accountants create dense, technical records, and utilize the method of double-entry to keep their bookkeeping in order.&lt;/p&gt;
+&lt;p&gt;Every transaction is entered twice so the balance sheet always sums to zero. Accountants check balances frequently, catching mistakes early. A discipline enforced by law in many regions around the world.&lt;/p&gt;
+&lt;p&gt;Test-Driven Development (TDD) is the developers&amp;rsquo; double-entry bookkeeping.&lt;/p&gt;
+&lt;p&gt;Writing an executable automated test first and then running it frequently lets developers detect and identify errors immediately, keeping the feedback loop tight, and preventing cascading failures.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Core Habits</title>
       <link>https://agiletechies.com/posts/core-habits/</link>

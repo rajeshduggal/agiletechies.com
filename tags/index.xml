@@ -13,8 +13,15 @@
     <language>en-US</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Mon, 09 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Driven Development</title>
+      <link>https://agiletechies.com/tags/test-driven-development/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/tags/test-driven-development/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Practices</title>
       <link>https://agiletechies.com/tags/practices/</link>
