@@ -13,8 +13,29 @@
     <language>en-US</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Tue, 10 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three Rules of Test-Driven-Development</title>
+      <link>https://agiletechies.com/posts/three-rules-of-tdd/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/three-rules-of-tdd/</guid>
+      <description>&lt;p&gt;The Three Rules of TDD are simple:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Write no production code until you have a failing test.&lt;/li&gt;
+&lt;li&gt;Write only enough tests to fail.&lt;/li&gt;
+&lt;li&gt;Write only enough production code to pass.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;When builders follow this discipline, their work is verifiable every minute.&lt;/p&gt;
+&lt;p&gt;Small, frequent checks catch errors early and keep risk manageable.
+TDD is the balance sheet that helps us avoid catastrophes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Discussions for your team&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Which high-risk parts of our software would benefit from requiring strict TDD?&lt;/li&gt;
+&lt;li&gt;In which areas of our software are we resisting writing tests first, and why?&lt;/li&gt;
+&lt;li&gt;What tooling would make TDD easier?&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Double-Entry Bookkeeping</title>
       <link>https://agiletechies.com/posts/double-entry-bookkeeping/</link>
