@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Debugging on The Agile Techies Daily List</title>
+    <link>https://agiletechies.com/tags/debugging/</link>
+    <description>Recent content in Debugging on The Agile Techies Daily List</description>
+    <image>
+      <title>The Agile Techies Daily List</title>
+      <url>https://agiletechies.com/images/papermod-cover.png</url>
+      <link>https://agiletechies.com/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
+    <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
+    <lastBuildDate>Thu, 12 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://agiletechies.com/tags/debugging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Minimize Your Time in the Debugger</title>
+      <link>https://agiletechies.com/posts/minimize-your-time-in-the-debugger/</link>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/minimize-your-time-in-the-debugger/</guid>
+      <description>&lt;p&gt;Spend less time chasing bugs and more time shipping value.&lt;/p&gt;
+&lt;p&gt;Imagine if as you work on developing the software, you&amp;rsquo;re always working in a state where everything was worked a minute ago. Nothing has been broken for an extended amount of time. Because the development loop is so small and rapid, and always giving you feedback that you&amp;rsquo;re hardly ever in a situation where you need to start up debugging tools.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
