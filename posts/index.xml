@@ -13,8 +13,19 @@
     <language>en-US</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Thu, 12 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tests as a Form of Documentation</title>
+      <link>https://agiletechies.com/posts/tests-as-documentation/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/tests-as-documentation/</guid>
+      <description>&lt;p&gt;Your tests are like a special type of documentation. Because they show exactly how things actually work.&lt;/p&gt;
+&lt;p&gt;They can show every API call, and every way to construct an object, and every exception that can occur.&lt;/p&gt;
+&lt;p&gt;And the tests are written in the language developers can read fluently: software code!&lt;/p&gt;
+&lt;p&gt;They are unambiguous, executable, and never drift out of sync with the application.&lt;/p&gt;
+&lt;p&gt;Good tests are small, independent units that describe behavior. Ideally they shouldn&amp;rsquo;t be tightly coupled and rely on each other. That independence turns them into a special type of living documentation.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Minimize Your Time in the Debugger</title>
       <link>https://agiletechies.com/posts/minimize-your-time-in-the-debugger/</link>
