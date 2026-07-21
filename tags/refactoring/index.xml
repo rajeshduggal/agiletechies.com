@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Refactoring on The Agile Techies Daily List</title>
+    <link>https://agiletechies.com/tags/refactoring/</link>
+    <description>Recent content in Refactoring on The Agile Techies Daily List</description>
+    <image>
+      <title>The Agile Techies Daily List</title>
+      <url>https://agiletechies.com/images/papermod-cover.png</url>
+      <link>https://agiletechies.com/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
+    <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
+    <lastBuildDate>Wed, 18 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://agiletechies.com/tags/refactoring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Refactor with Tests</title>
+      <link>https://agiletechies.com/posts/refactoring-with-tests/</link>
+      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/refactoring-with-tests/</guid>
+      <description>&lt;p&gt;Refactoring is the practice of improving the code&amp;rsquo;s structure without changing its behavior.
+And the only way to do that safely is a robust test suite.&lt;/p&gt;
+&lt;p&gt;When tests are present, small renames, splitting large functions, extracting classes, inverting dependencies, and moving modules around become low-risk activities.&lt;/p&gt;
+&lt;p&gt;Tests let us reshape architecture while keeping behavior intact. That confidence is why refactoring pairs so well with test-first practices: tests become the specification you can rely on during change.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
