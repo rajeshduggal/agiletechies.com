@@ -13,8 +13,33 @@
     <language>en-US</language>
     <managingEditor>rajesh@duggalmail.com (Raj Duggal)</managingEditor>
     <webMaster>rajesh@duggalmail.com (Raj Duggal)</webMaster>
-    <lastBuildDate>Wed, 18 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://agiletechies.com/tags/refactoring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Refactoring is a Habit, Not a Calendar Item</title>
+      <link>https://agiletechies.com/posts/refactoring-is-habit-not-a-calendar-item/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/refactoring-is-habit-not-a-calendar-item/</guid>
+      <description>&lt;p&gt;Refactoring is a continuous habit, not a calendar item.&lt;/p&gt;
+&lt;p&gt;Don&amp;rsquo;t pile up a week&amp;rsquo;s worth of mess and then try to schedule a day to clean it all up.&lt;/p&gt;
+&lt;p&gt;Instead, after getting the code working, immediately follow up with a quick tidy-up refactoring focus, so the mess never grows. This makes refactoring part of how we do software development, not an extra chore to deal with at some later time.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Green then Refactor</title>
+      <link>https://agiletechies.com/posts/green-then-refactor/</link>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate><author>rajesh@duggalmail.com (Raj Duggal)</author>
+      <guid>https://agiletechies.com/posts/green-then-refactor/</guid>
+      <description>&lt;p&gt;Writing code that works and writing code that is clean are two different dimensions. Trying to perfect both at once is exhausting and slow.&lt;/p&gt;
+&lt;p&gt;Instead, get it working first and the tests passing, by whatever means.
+Then clean and refactor the code.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Discussions for your team&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;what does &amp;ldquo;clean&amp;rdquo; mean for your codebase?&lt;/li&gt;
+&lt;li&gt;Once we validate that the tests work, are we spending enough time and effort into refactoring?&lt;/li&gt;
+&lt;li&gt;How much of time is spent getting the code to &amp;ldquo;work&amp;rdquo;, versus cleaning and refactoring?&lt;/li&gt;
+&lt;li&gt;What guardrails are in place to make sure the cleaning/refactoring step isn&amp;rsquo;t skipped?&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Refactor with Tests</title>
       <link>https://agiletechies.com/posts/refactoring-with-tests/</link>
